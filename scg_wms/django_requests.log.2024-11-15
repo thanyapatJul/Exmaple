@@ -1,0 +1,813 @@
+INFO 2024-11-15 08:18:23,087 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:19:16,169 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:19:42,186 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-15 08:19:42,186 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-15 08:19:42,190 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-15 08:19:42,192 log Forbidden: /wms/api/check_session
+WARNING 2024-11-15 08:19:42,192 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-15 08:19:42,194 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-15 08:19:42,196 log Forbidden: /wms/api/check_session
+WARNING 2024-11-15 08:19:42,196 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-15 08:19:42,309 basehttp "OPTIONS /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 0
+INFO 2024-11-15 08:19:42,313 basehttp "OPTIONS /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 0
+INFO 2024-11-15 08:19:42,314 middleware User: Anonymous, Request method: GET, Request path: /wms/api/getweek
+WARNING 2024-11-15 08:19:42,315 log Forbidden: /wms/api/getweek
+WARNING 2024-11-15 08:19:42,316 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 403 58
+INFO 2024-11-15 08:19:42,318 middleware User: Anonymous, Request method: GET, Request path: /wms/api/getweek
+WARNING 2024-11-15 08:19:42,319 log Forbidden: /wms/api/getweek
+WARNING 2024-11-15 08:19:42,320 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 403 58
+INFO 2024-11-15 08:19:44,300 basehttp "OPTIONS /wms/api/logout HTTP/1.1" 200 0
+INFO 2024-11-15 08:19:44,303 middleware User: Anonymous, Request method: GET, Request path: /wms/api/logout
+INFO 2024-11-15 08:19:44,304 basehttp "GET /wms/api/logout HTTP/1.1" 200 77
+INFO 2024-11-15 08:19:51,743 basehttp "OPTIONS /wms/api/login HTTP/1.1" 200 0
+INFO 2024-11-15 08:19:51,746 middleware User: Anonymous, Request method: POST, Request path: /wms/api/login
+INFO 2024-11-15 08:19:52,101 basehttp "POST /wms/api/login HTTP/1.1" 200 91
+INFO 2024-11-15 08:19:52,145 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 08:19:52,151 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 08:19:52,168 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 08:19:52,184 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 08:19:52,307 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 08:19:52,319 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 08:19:52,352 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 08:19:52,357 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 08:19:56,151 basehttp "OPTIONS /wms/api/get_plan_pef?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 0
+INFO 2024-11-15 08:19:56,152 basehttp "OPTIONS /wms/api/GetWeeksRange?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 0
+INFO 2024-11-15 08:19:56,220 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 08:19:56,222 middleware User: Preme, Request method: GET, Request path: /wms/api/get_plan_pef
+INFO 2024-11-15 08:19:56,240 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 38
+INFO 2024-11-15 08:19:56,269 basehttp "GET /wms/api/get_plan_pef?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 290
+INFO 2024-11-15 08:20:01,445 basehttp "OPTIONS /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-28 HTTP/1.1" 200 0
+INFO 2024-11-15 08:20:01,445 basehttp "OPTIONS /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-28 HTTP/1.1" 200 0
+INFO 2024-11-15 08:20:01,516 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 08:20:01,519 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-15 08:20:01,532 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-28 HTTP/1.1" 200 38
+INFO 2024-11-15 08:20:02,239 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-28 HTTP/1.1" 200 79635
+INFO 2024-11-15 08:20:03,435 basehttp "OPTIONS /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 0
+INFO 2024-11-15 08:20:03,435 basehttp "OPTIONS /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 0
+INFO 2024-11-15 08:20:03,493 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-15 08:20:03,498 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 08:20:03,513 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-11-15 08:20:04,128 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 79635
+INFO 2024-11-15 08:20:08,020 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 08:20:08,022 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-15 08:20:08,038 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-11-15 08:20:08,610 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 79635
+INFO 2024-11-15 08:20:15,685 basehttp "OPTIONS /wms/api/get_sent_approve?zca=ZCAWA150130003&listmc_done[]=RT1&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 0
+INFO 2024-11-15 08:20:15,731 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+ERROR 2024-11-15 08:20:15,734 middleware User: Preme, Exception occurred: Traceback (most recent call last):
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6416, in get
+    date_range=get_week_range(week,year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6040, in get_week_range
+    week_start_date = datetime(current_year, month, 22)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: month must be in 1..12
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6482, in get
+    return Response({'success': False, 'error': 'Invalid date format'}, status=status.HTTP_500_BAD_REQUEST)
+                                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_500_BAD_REQUEST'
+
+ERROR 2024-11-15 08:20:15,735 log Internal Server Error: /wms/api/get_sent_approve
+Traceback (most recent call last):
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6416, in get
+    date_range=get_week_range(week,year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6040, in get_week_range
+    week_start_date = datetime(current_year, month, 22)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: month must be in 1..12
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6482, in get
+    return Response({'success': False, 'error': 'Invalid date format'}, status=status.HTTP_500_BAD_REQUEST)
+                                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_500_BAD_REQUEST'
+ERROR 2024-11-15 08:20:15,736 basehttp "GET /wms/api/get_sent_approve?zca=ZCAWA150130003&listmc_done[]=RT1&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 500 145
+INFO 2024-11-15 08:20:20,587 basehttp "OPTIONS /wms/api/get_sent_approve?zca=ZCA63110600406&listmc_done[]=CM8&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 0
+INFO 2024-11-15 08:20:20,634 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+ERROR 2024-11-15 08:20:20,634 middleware User: Preme, Exception occurred: Traceback (most recent call last):
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6416, in get
+    date_range=get_week_range(week,year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6040, in get_week_range
+    week_start_date = datetime(current_year, month, 22)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: month must be in 1..12
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6482, in get
+    return Response({'success': False, 'error': 'Invalid date format'}, status=status.HTTP_500_BAD_REQUEST)
+                                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_500_BAD_REQUEST'
+
+ERROR 2024-11-15 08:20:20,635 log Internal Server Error: /wms/api/get_sent_approve
+Traceback (most recent call last):
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6416, in get
+    date_range=get_week_range(week,year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6040, in get_week_range
+    week_start_date = datetime(current_year, month, 22)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: month must be in 1..12
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6482, in get
+    return Response({'success': False, 'error': 'Invalid date format'}, status=status.HTTP_500_BAD_REQUEST)
+                                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_500_BAD_REQUEST'
+ERROR 2024-11-15 08:20:20,635 basehttp "GET /wms/api/get_sent_approve?zca=ZCA63110600406&listmc_done[]=CM8&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 500 145
+INFO 2024-11-15 08:22:49,181 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:22:49,706 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:24:04,807 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:24:05,276 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:24:30,419 basehttp "OPTIONS /wms/api/get_sent_approve?zca=ZCAWD650100080&listmc_done[]=OS1&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 0
+INFO 2024-11-15 08:24:30,487 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+ERROR 2024-11-15 08:24:30,492 middleware User: Preme, Exception occurred: Traceback (most recent call last):
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6416, in get
+    date_range=get_week_range(week,year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6040, in get_week_range
+    week_start_date = datetime(current_year, month, 22)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: month must be in 1..12
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6482, in get
+    return Response({'success': False, 'error': 'Invalid date format'}, status=status.HTTP_500_BAD_REQUEST)
+                                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_500_BAD_REQUEST'
+
+ERROR 2024-11-15 08:24:30,492 log Internal Server Error: /wms/api/get_sent_approve
+Traceback (most recent call last):
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6416, in get
+    date_range=get_week_range(week,year)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6040, in get_week_range
+    week_start_date = datetime(current_year, month, 22)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: month must be in 1..12
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/env/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py", line 6482, in get
+    return Response({'success': False, 'error': 'Invalid date format'}, status=status.HTTP_500_BAD_REQUEST)
+                                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_500_BAD_REQUEST'
+ERROR 2024-11-15 08:24:30,493 basehttp "GET /wms/api/get_sent_approve?zca=ZCAWD650100080&listmc_done[]=OS1&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 500 145
+INFO 2024-11-15 08:25:31,663 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:25:32,121 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:25:50,147 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:25:50,604 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:25:59,533 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:25:59,993 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:26:01,706 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:26:02,126 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:26:03,349 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+ERROR 2024-11-15 08:26:03,351 log Internal Server Error: /wms/api/get_sent_approve
+ERROR 2024-11-15 08:26:03,352 basehttp "GET /wms/api/get_sent_approve?zca=ZCAWD650100080&listmc_done[]=OS1&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 500 76
+INFO 2024-11-15 08:26:13,991 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:26:14,410 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:26:30,429 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:26:30,871 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:26:35,674 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:26:36,115 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:26:38,710 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:26:39,040 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:27:00,199 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:27:00,635 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:27:09,543 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:27:09,977 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:27:13,708 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:27:14,115 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:27:16,764 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:27:17,202 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:27:21,264 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+ERROR 2024-11-15 08:27:21,268 log Internal Server Error: /wms/api/get_sent_approve
+ERROR 2024-11-15 08:27:21,268 basehttp "GET /wms/api/get_sent_approve?zca=ZCAWD650100080&listmc_done[]=OS1&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 500 76
+INFO 2024-11-15 08:27:37,465 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:27:37,897 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:27:41,685 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:27:42,068 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:27:44,108 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+ERROR 2024-11-15 08:27:44,110 log Internal Server Error: /wms/api/get_sent_approve
+ERROR 2024-11-15 08:27:44,111 basehttp "GET /wms/api/get_sent_approve?zca=ZCAWD650100080&listmc_done[]=OS1&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 500 58
+INFO 2024-11-15 08:27:58,200 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:27:58,598 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:27:59,647 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+ERROR 2024-11-15 08:27:59,649 log Internal Server Error: /wms/api/get_sent_approve
+ERROR 2024-11-15 08:27:59,649 basehttp "GET /wms/api/get_sent_approve?zca=ZCAWD650100080&listmc_done[]=OS1&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 500 76
+INFO 2024-11-15 08:28:11,728 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:28:12,100 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:28:16,801 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:28:17,314 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:28:23,074 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:28:23,403 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:28:24,668 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+ERROR 2024-11-15 08:28:24,669 log Internal Server Error: /wms/api/get_sent_approve
+ERROR 2024-11-15 08:28:24,670 basehttp "GET /wms/api/get_sent_approve?zca=ZCAWD650100080&listmc_done[]=OS1&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 500 76
+INFO 2024-11-15 08:29:51,785 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:29:52,277 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:29:58,043 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:29:58,479 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:30:07,664 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 08:30:07,695 basehttp "GET /wms/api/get_sent_approve?zca=ZCAWD650100080&listmc_done[]=OS1&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 336
+INFO 2024-11-15 08:30:15,583 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:30:15,973 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:30:21,213 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 08:30:21,230 basehttp "GET /wms/api/get_sent_approve?zca=ZCAWD650100080&listmc_done[]=OS1&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 336
+INFO 2024-11-15 08:30:27,025 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 08:30:27,037 basehttp "GET /wms/api/get_sent_approve?zca=ZCAWD650100080&listmc_done[]=OS1&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 336
+INFO 2024-11-15 08:30:41,905 basehttp "OPTIONS /wms/api/get_sent_approve?zca=ZCA66600602014&listmc_done[]=CM6&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 0
+INFO 2024-11-15 08:30:41,955 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 08:30:41,984 basehttp "GET /wms/api/get_sent_approve?zca=ZCA66600602014&listmc_done[]=CM6&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 385
+INFO 2024-11-15 08:37:55,056 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 08:37:55,074 basehttp "GET /wms/api/get_sent_approve?zca=ZCA66600602014&listmc_done[]=CM6&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 385
+INFO 2024-11-15 08:37:59,732 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-15 08:37:59,734 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 08:37:59,754 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-11-15 08:38:00,280 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 79635
+INFO 2024-11-15 08:39:57,123 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:39:57,836 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:39:59,822 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:40:00,373 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:40:17,633 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:40:18,246 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:41:51,313 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:41:52,069 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:42:25,834 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:42:26,443 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:46:23,322 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:46:24,509 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:46:31,189 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 08:46:31,196 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-15 08:46:31,228 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-11-15 08:46:31,615 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 79635
+INFO 2024-11-15 08:48:02,888 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:48:03,513 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:48:08,652 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:48:09,167 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:48:20,312 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:48:21,090 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:56:38,400 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:56:39,074 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:56:45,180 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:56:45,730 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:58:00,910 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:58:01,566 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:58:57,096 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:58:57,753 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:59:27,539 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:59:28,202 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:59:32,613 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:59:33,140 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:59:40,165 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:59:40,675 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 08:59:44,647 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 08:59:45,196 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:00:23,979 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 09:00:24,613 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:00:35,898 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 09:00:36,709 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:01:01,462 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 09:01:02,227 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:01:37,485 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 09:01:38,187 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:02:11,389 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 09:02:12,224 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:02:17,760 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 09:02:17,762 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-15 09:02:17,781 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-11-15 09:02:18,396 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 79635
+INFO 2024-11-15 09:02:30,082 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 09:02:30,644 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:02:36,703 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-15 09:02:36,705 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 09:02:36,714 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-11-15 09:02:37,215 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 79635
+INFO 2024-11-15 09:02:47,266 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 09:02:47,918 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:02:52,952 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 09:02:53,584 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:02:56,104 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-15 09:02:56,109 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 09:02:56,128 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-11-15 09:02:56,718 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 79674
+INFO 2024-11-15 09:03:09,991 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 09:03:10,750 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:08:09,946 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-15 09:08:09,952 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 09:08:09,972 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-11-15 09:08:10,464 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 79674
+INFO 2024-11-15 09:08:47,710 basehttp "OPTIONS /wms/api/get_sent_approve?zca=ZCA63210100010&listmc_done[]=HS9&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 0
+INFO 2024-11-15 09:08:47,807 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 09:08:47,823 basehttp "GET /wms/api/get_sent_approve?zca=ZCA63210100010&listmc_done[]=HS9&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 727
+INFO 2024-11-15 09:08:49,011 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 09:08:49,024 basehttp "GET /wms/api/get_sent_approve?zca=ZCA63210100010&listmc_done[]=HS9&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 727
+INFO 2024-11-15 09:09:35,197 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 09:09:35,215 basehttp "GET /wms/api/get_sent_approve?zca=ZCA63210100010&listmc_done[]=HS9&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 727
+INFO 2024-11-15 09:09:42,450 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 09:09:42,464 basehttp "GET /wms/api/get_sent_approve?zca=ZCA63210100010&listmc_done[]=HS9&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 727
+INFO 2024-11-15 09:15:43,554 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 09:15:44,241 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:23:57,975 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:25:44,537 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:30:02,048 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:33:14,346 basehttp "OPTIONS /wms/api/get_sent_approve?zca=ZCA66600602014&listmc_done[]=CM6&listmc_done[]=CM7&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 0
+INFO 2024-11-15 09:33:14,446 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 09:33:14,495 basehttp "GET /wms/api/get_sent_approve?zca=ZCA66600602014&listmc_done[]=CM6&listmc_done[]=CM7&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 694
+INFO 2024-11-15 09:34:19,646 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:40:01,721 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 09:40:01,736 basehttp "GET /wms/api/get_sent_approve?zca=ZCA66600602014&listmc_done[]=CM6&listmc_done[]=CM7&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 694
+INFO 2024-11-15 09:41:09,067 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-15 09:41:09,071 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 09:41:09,094 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-11-15 09:41:09,847 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 79674
+INFO 2024-11-15 09:43:19,282 basehttp "OPTIONS /wms/api/upload_plan HTTP/1.1" 200 0
+INFO 2024-11-15 09:43:19,421 middleware User: Preme, Request method: POST, Request path: /wms/api/upload_plan
+INFO 2024-11-15 09:43:24,288 basehttp "POST /wms/api/upload_plan HTTP/1.1" 200 49
+INFO 2024-11-15 09:43:37,901 basehttp "OPTIONS /wms/api/get_plans?start_date=2024-10-31&end_date=2024-11-29 HTTP/1.1" 200 0
+INFO 2024-11-15 09:43:37,901 basehttp "OPTIONS /wms/api/GetWeeksRange?start_date=2024-10-31&end_date=2024-11-29 HTTP/1.1" 200 0
+INFO 2024-11-15 09:43:37,902 basehttp "OPTIONS /wms/api/get_version?start_date=2024-10-31&end_date=2024-11-29 HTTP/1.1" 200 0
+INFO 2024-11-15 09:43:37,983 middleware User: Preme, Request method: GET, Request path: /wms/api/get_plans
+INFO 2024-11-15 09:43:37,986 middleware User: Preme, Request method: GET, Request path: /wms/api/get_version
+INFO 2024-11-15 09:43:37,988 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 09:43:38,002 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-31&end_date=2024-11-29 HTTP/1.1" 200 38
+INFO 2024-11-15 09:43:38,010 basehttp "GET /wms/api/get_version?start_date=2024-10-31&end_date=2024-11-29 HTTP/1.1" 200 62
+INFO 2024-11-15 09:43:40,670 basehttp "GET /wms/api/get_plans?start_date=2024-10-31&end_date=2024-11-29 HTTP/1.1" 200 306031
+INFO 2024-11-15 09:45:35,615 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:49:05,067 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:49:30,878 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 09:49:30,879 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-15 09:49:30,887 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-11-15 09:49:31,347 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 79674
+INFO 2024-11-15 09:49:45,787 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 09:49:45,801 basehttp "GET /wms/api/get_sent_approve?zca=ZCA66600602014&listmc_done[]=CM6&listmc_done[]=CM7&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 694
+INFO 2024-11-15 09:50:30,666 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 09:50:30,690 basehttp "GET /wms/api/get_sent_approve?zca=ZCA63110600406&listmc_done[]=CM8&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 393
+INFO 2024-11-15 09:56:24,990 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 09:57:51,329 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 10:01:40,610 basehttp "OPTIONS /wms/api/get_plans?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 0
+INFO 2024-11-15 10:01:40,610 basehttp "OPTIONS /wms/api/get_version?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 0
+INFO 2024-11-15 10:01:40,712 middleware User: Preme, Request method: GET, Request path: /wms/api/get_version
+INFO 2024-11-15 10:01:40,714 middleware User: Preme, Request method: GET, Request path: /wms/api/get_plans
+INFO 2024-11-15 10:01:40,715 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 10:01:40,743 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 38
+INFO 2024-11-15 10:01:40,758 basehttp "GET /wms/api/get_version?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 48
+INFO 2024-11-15 10:01:41,484 basehttp "GET /wms/api/get_plans?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 140390
+INFO 2024-11-15 10:02:22,116 basehttp "OPTIONS /wms/api/get_plans?start_date=2024-11-07&end_date=2024-11-13 HTTP/1.1" 200 0
+INFO 2024-11-15 10:02:22,117 basehttp "OPTIONS /wms/api/GetWeeksRange?start_date=2024-11-07&end_date=2024-11-13 HTTP/1.1" 200 0
+INFO 2024-11-15 10:02:22,118 basehttp "OPTIONS /wms/api/get_version?start_date=2024-11-07&end_date=2024-11-13 HTTP/1.1" 200 0
+INFO 2024-11-15 10:02:22,195 middleware User: Preme, Request method: GET, Request path: /wms/api/get_version
+INFO 2024-11-15 10:02:22,199 middleware User: Preme, Request method: GET, Request path: /wms/api/get_plans
+INFO 2024-11-15 10:02:22,208 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 10:02:22,221 basehttp "GET /wms/api/get_version?start_date=2024-11-07&end_date=2024-11-13 HTTP/1.1" 200 48
+INFO 2024-11-15 10:02:22,227 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-11-07&end_date=2024-11-13 HTTP/1.1" 200 38
+INFO 2024-11-15 10:02:23,405 basehttp "GET /wms/api/get_plans?start_date=2024-11-07&end_date=2024-11-13 HTTP/1.1" 200 165667
+INFO 2024-11-15 10:06:33,088 basehttp "OPTIONS /wms/api/get_plans?start_date=2024-11-14&end_date=2024-11-20 HTTP/1.1" 200 0
+INFO 2024-11-15 10:06:33,089 basehttp "OPTIONS /wms/api/GetWeeksRange?start_date=2024-11-14&end_date=2024-11-20 HTTP/1.1" 200 0
+INFO 2024-11-15 10:06:33,094 basehttp "OPTIONS /wms/api/get_version?start_date=2024-11-14&end_date=2024-11-20 HTTP/1.1" 200 0
+INFO 2024-11-15 10:06:33,204 middleware User: Preme, Request method: GET, Request path: /wms/api/get_plans
+INFO 2024-11-15 10:06:33,206 middleware User: Preme, Request method: GET, Request path: /wms/api/get_version
+INFO 2024-11-15 10:06:33,210 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+WARNING 2024-11-15 10:06:33,215 log Not Found: /wms/api/get_plans
+WARNING 2024-11-15 10:06:33,216 basehttp "GET /wms/api/get_plans?start_date=2024-11-14&end_date=2024-11-20 HTTP/1.1" 404 49
+WARNING 2024-11-15 10:06:33,218 log Not Found: /wms/api/get_version
+WARNING 2024-11-15 10:06:33,219 basehttp "GET /wms/api/get_version?start_date=2024-11-14&end_date=2024-11-20 HTTP/1.1" 404 69
+INFO 2024-11-15 10:06:33,224 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-11-14&end_date=2024-11-20 HTTP/1.1" 200 38
+INFO 2024-11-15 10:10:54,728 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-15 10:10:54,729 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 10:10:54,743 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-11-15 10:10:55,178 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 79674
+INFO 2024-11-15 10:11:00,808 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 10:11:00,824 basehttp "GET /wms/api/get_sent_approve?zca=ZCA66600602014&listmc_done[]=CM6&listmc_done[]=CM7&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 694
+INFO 2024-11-15 10:11:04,480 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 10:11:04,494 basehttp "GET /wms/api/get_sent_approve?zca=ZCA66600602014&listmc_done[]=CM6&listmc_done[]=CM7&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 694
+INFO 2024-11-15 10:12:58,284 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 10:15:02,518 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 10:15:11,575 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 10:16:03,520 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 10:16:03,532 basehttp "GET /wms/api/get_sent_approve?zca=ZCA66600602014&listmc_done[]=CM6&listmc_done[]=CM7&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 694
+INFO 2024-11-15 10:16:25,568 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 10:16:48,066 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 10:17:24,483 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 10:17:58,945 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 10:18:36,178 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 10:18:36,206 basehttp "GET /wms/api/get_sent_approve?zca=ZCA66600602014&listmc_done[]=CM6&listmc_done[]=CM7&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 694
+INFO 2024-11-15 10:26:09,952 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 10:27:35,320 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 10:28:10,007 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-15 10:28:10,521 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 10:28:20,788 basehttp "OPTIONS /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 0
+INFO 2024-11-15 10:28:20,788 basehttp "OPTIONS /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 0
+INFO 2024-11-15 10:28:20,871 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-15 10:28:20,873 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 10:28:20,881 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-11-15 10:28:21,495 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 79674
+INFO 2024-11-15 10:29:28,980 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 10:30:25,846 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 10:36:57,867 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 10:43:50,208 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 11:06:24,602 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 11:13:48,505 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 11:21:00,174 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 11:21:41,875 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 11:37:01,333 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 11:37:45,857 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-15 11:37:45,857 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-15 11:37:45,913 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 11:37:45,918 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 11:37:45,932 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 11:37:45,936 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 11:37:46,030 basehttp "OPTIONS /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 0
+INFO 2024-11-15 11:37:46,032 basehttp "OPTIONS /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 0
+INFO 2024-11-15 11:37:46,079 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 11:37:46,090 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 11:37:46,134 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 11:37:46,138 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 11:37:51,354 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 11:37:51,355 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-15 11:37:51,366 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-11-15 11:37:51,686 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 79674
+INFO 2024-11-15 11:38:05,664 basehttp "OPTIONS /wms/api/get_sent_approve?zca=ZCA66600602014&listmc_done[]=CM6&listmc_done[]=CM7&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 0
+INFO 2024-11-15 11:38:05,714 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 11:38:05,749 basehttp "GET /wms/api/get_sent_approve?zca=ZCA66600602014&listmc_done[]=CM6&listmc_done[]=CM7&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 694
+INFO 2024-11-15 11:38:17,490 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 11:38:17,510 basehttp "GET /wms/api/get_sent_approve?zca=ZCA66600602014&listmc_done[]=CM6&listmc_done[]=CM7&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 694
+INFO 2024-11-15 11:39:45,368 basehttp "OPTIONS /wms/api/get_sent_approve?zca=ZCA66600602016&listmc_done[]=CM6&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 0
+INFO 2024-11-15 11:39:45,419 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 11:39:45,463 basehttp "GET /wms/api/get_sent_approve?zca=ZCA66600602016&listmc_done[]=CM6&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 402
+INFO 2024-11-15 11:41:54,971 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 11:42:21,766 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-11-15 11:42:21,785 basehttp "GET /wms/api/get_sent_approve?zca=ZCA66600602014&listmc_done[]=CM6&listmc_done[]=CM7&week=2024_40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 694
+INFO 2024-11-15 11:44:49,705 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 11:46:09,216 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 11:46:41,792 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 11:47:43,632 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 11:48:32,546 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 11:50:19,272 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 12:43:12,713 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 12:44:00,870 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 12:44:37,482 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 12:57:02,171 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 12:58:43,804 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 13:12:15,754 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 13:21:58,163 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 13:26:20,384 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 13:26:20,392 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 13:26:20,408 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 13:26:20,413 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 13:26:20,569 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 13:26:20,578 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 13:26:20,613 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 13:26:20,620 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 13:43:41,082 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 13:52:20,624 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 14:05:40,995 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-15 14:05:40,995 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-15 14:05:40,998 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-15 14:05:41,001 log Forbidden: /wms/api/check_session
+WARNING 2024-11-15 14:05:41,001 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-15 14:05:41,002 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-15 14:05:41,002 log Forbidden: /wms/api/check_session
+WARNING 2024-11-15 14:05:41,003 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-15 14:05:41,109 basehttp "OPTIONS /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 0
+INFO 2024-11-15 14:05:41,110 middleware User: Anonymous, Request method: GET, Request path: /wms/api/getweek
+WARNING 2024-11-15 14:05:41,112 log Forbidden: /wms/api/getweek
+WARNING 2024-11-15 14:05:41,112 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 403 58
+INFO 2024-11-15 14:05:41,113 middleware User: Anonymous, Request method: GET, Request path: /wms/api/getweek
+WARNING 2024-11-15 14:05:41,113 log Forbidden: /wms/api/getweek
+WARNING 2024-11-15 14:05:41,114 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 403 58
+INFO 2024-11-15 14:07:06,735 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 14:07:53,093 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 14:08:00,620 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-15 14:08:00,623 log Forbidden: /wms/api/check_session
+WARNING 2024-11-15 14:08:00,623 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-15 14:08:00,624 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-15 14:08:00,625 log Forbidden: /wms/api/check_session
+WARNING 2024-11-15 14:08:00,625 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-15 14:08:00,724 middleware User: Anonymous, Request method: GET, Request path: /wms/api/getweek
+WARNING 2024-11-15 14:08:00,725 log Forbidden: /wms/api/getweek
+WARNING 2024-11-15 14:08:00,725 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 403 58
+INFO 2024-11-15 14:08:00,727 middleware User: Anonymous, Request method: GET, Request path: /wms/api/getweek
+WARNING 2024-11-15 14:08:00,728 log Forbidden: /wms/api/getweek
+WARNING 2024-11-15 14:08:00,728 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 403 58
+INFO 2024-11-15 14:08:03,067 basehttp "OPTIONS /wms/api/GetWeeksRange?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 0
+INFO 2024-11-15 14:08:03,067 basehttp "OPTIONS /wms/api/get_remain_plan?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 0
+INFO 2024-11-15 14:08:03,069 middleware User: Anonymous, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-15 14:08:03,070 middleware User: Anonymous, Request method: GET, Request path: /wms/api/GetWeeksRange
+WARNING 2024-11-15 14:08:03,071 log Forbidden: /wms/api/get_remain_plan
+WARNING 2024-11-15 14:08:03,073 log Forbidden: /wms/api/GetWeeksRange
+WARNING 2024-11-15 14:08:03,073 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 403 58
+WARNING 2024-11-15 14:08:03,074 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 403 58
+INFO 2024-11-15 14:08:06,977 basehttp "OPTIONS /wms/api/login HTTP/1.1" 200 0
+INFO 2024-11-15 14:08:06,979 middleware User: Anonymous, Request method: POST, Request path: /wms/api/login
+INFO 2024-11-15 14:08:07,263 basehttp "POST /wms/api/login HTTP/1.1" 200 91
+INFO 2024-11-15 14:08:07,294 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 14:08:07,299 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 14:08:07,324 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 14:08:07,335 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 14:08:07,423 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 14:08:07,432 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 14:08:07,469 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 14:08:07,472 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 14:08:10,731 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 14:08:10,733 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-15 14:08:10,750 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 38
+INFO 2024-11-15 14:08:11,304 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 54009
+INFO 2024-11-15 14:09:59,553 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 14:14:47,028 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 14:27:14,838 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 14:37:49,959 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 14:37:49,969 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 14:37:49,987 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 14:37:49,994 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 14:37:50,157 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 14:37:50,170 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 14:37:50,216 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 14:37:50,228 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 14:48:02,152 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-15 14:48:02,155 log Forbidden: /wms/api/check_session
+WARNING 2024-11-15 14:48:02,156 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-15 14:48:02,158 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-15 14:48:02,158 log Forbidden: /wms/api/check_session
+WARNING 2024-11-15 14:48:02,159 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-15 14:48:02,159 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-15 14:48:02,160 log Forbidden: /wms/api/check_session
+WARNING 2024-11-15 14:48:02,160 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-15 14:48:04,925 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 14:48:04,931 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 14:48:04,964 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 14:48:04,978 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 14:48:05,351 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 14:48:05,377 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 14:48:05,412 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 14:48:05,423 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 14:48:38,935 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 14:48:38,945 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 14:48:38,972 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 14:48:38,984 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 14:48:39,123 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 14:48:39,158 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 14:48:39,185 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 14:48:39,195 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 14:48:47,779 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 14:48:47,791 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 14:48:47,835 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 14:48:47,857 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 14:48:47,973 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 14:48:47,999 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 14:48:48,060 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 14:48:48,189 basehttp - Broken pipe from ('127.0.0.1', 52173)
+INFO 2024-11-15 14:48:48,455 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 14:48:48,468 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 14:48:48,500 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 14:48:48,517 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 14:48:48,631 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 14:48:48,645 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 14:48:48,672 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 14:48:48,715 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 14:48:52,154 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 14:48:52,169 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 14:48:52,377 basehttp "OPTIONS /wms/api/get_appointments HTTP/1.1" 200 0
+INFO 2024-11-15 14:48:52,381 basehttp "OPTIONS /wms/api/get_options HTTP/1.1" 200 0
+INFO 2024-11-15 14:48:52,383 basehttp "OPTIONS /wms/api/demand HTTP/1.1" 200 0
+INFO 2024-11-15 14:48:52,383 basehttp "OPTIONS /wms/api/get_appointments HTTP/1.1" 200 0
+INFO 2024-11-15 14:48:52,384 basehttp "OPTIONS /wms/api/get_options HTTP/1.1" 200 0
+INFO 2024-11-15 14:48:52,387 basehttp "OPTIONS /wms/api/demand HTTP/1.1" 200 0
+INFO 2024-11-15 14:48:52,412 middleware User: Preme, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-11-15 14:48:52,442 middleware User: Preme, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-15 14:48:52,445 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105263
+INFO 2024-11-15 14:48:52,462 middleware User: Preme, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-15 14:48:52,465 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-15 14:48:52,479 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-11-15 14:48:52,482 middleware User: Preme, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-11-15 14:48:52,494 middleware User: Preme, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-15 14:48:52,500 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105263
+INFO 2024-11-15 14:48:52,505 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-15 14:48:52,508 middleware User: Preme, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-15 14:48:52,514 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-11-15 14:53:13,699 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-15 14:53:13,704 log Forbidden: /wms/api/check_session
+WARNING 2024-11-15 14:53:13,705 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-15 14:53:13,706 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-15 14:53:13,707 log Forbidden: /wms/api/check_session
+WARNING 2024-11-15 14:53:13,707 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-15 14:53:13,707 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-15 14:53:13,708 log Forbidden: /wms/api/check_session
+WARNING 2024-11-15 14:53:13,708 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-15 21:08:04,730 autoreload Watching for file changes with StatReloader
+INFO 2024-11-15 21:08:12,428 basehttp "OPTIONS /wms/api/login HTTP/1.1" 200 0
+INFO 2024-11-15 21:08:17,006 basehttp "OPTIONS /wms/api/login HTTP/1.1" 200 0
+INFO 2024-11-15 21:08:20,967 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 21:08:20,975 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 21:08:20,995 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 21:08:21,003 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 21:08:21,157 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 21:08:21,167 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 21:08:21,186 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 21:08:21,199 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 21:08:26,610 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 21:08:26,618 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 21:11:52,436 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 21:11:52,442 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 21:11:52,464 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 21:11:52,470 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 21:11:52,546 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 21:11:52,555 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 21:11:52,643 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 21:11:52,653 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 21:11:52,674 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 21:11:52,685 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 21:11:53,848 middleware User: Preme, Request method: GET, Request path: /wms/api/logout
+INFO 2024-11-15 21:11:53,875 basehttp "GET /wms/api/logout HTTP/1.1" 200 77
+INFO 2024-11-15 21:12:02,168 basehttp "OPTIONS /wms/api/login HTTP/1.1" 200 0
+INFO 2024-11-15 21:12:02,171 middleware User: Anonymous, Request method: POST, Request path: /wms/api/login
+INFO 2024-11-15 21:12:02,527 basehttp "POST /wms/api/login HTTP/1.1" 200 91
+INFO 2024-11-15 21:12:02,538 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-15 21:12:02,539 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-15 21:12:02,556 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 21:12:02,563 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 21:12:02,587 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 21:12:02,597 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 21:12:02,689 basehttp "OPTIONS /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 0
+INFO 2024-11-15 21:12:02,693 basehttp "OPTIONS /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 0
+INFO 2024-11-15 21:12:02,722 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 21:12:02,739 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 21:12:02,772 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 21:12:02,797 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 21:12:05,520 basehttp "OPTIONS /wms/api/logout HTTP/1.1" 200 0
+INFO 2024-11-15 21:12:05,588 middleware User: Preme, Request method: GET, Request path: /wms/api/logout
+INFO 2024-11-15 21:12:05,596 basehttp "GET /wms/api/logout HTTP/1.1" 200 77
+INFO 2024-11-15 21:12:11,057 middleware User: Anonymous, Request method: POST, Request path: /wms/api/login
+INFO 2024-11-15 21:12:11,357 basehttp "POST /wms/api/login HTTP/1.1" 200 60
+INFO 2024-11-15 21:12:16,163 middleware User: Anonymous, Request method: POST, Request path: /wms/api/login
+INFO 2024-11-15 21:12:16,541 basehttp "POST /wms/api/login HTTP/1.1" 200 95
+INFO 2024-11-15 21:12:16,579 middleware User: PremeCo, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 21:12:16,584 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 21:12:16,600 middleware User: PremeCo, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 21:12:16,608 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 21:12:16,724 middleware User: PremeCo, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 21:12:16,738 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 21:12:16,763 middleware User: PremeCo, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 21:12:16,773 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 21:12:19,832 middleware User: PremeCo, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 21:12:19,839 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 21:12:19,854 middleware User: PremeCo, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 21:12:19,862 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 21:26:13,598 middleware User: PremeCo, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 21:26:13,628 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 21:26:13,648 middleware User: PremeCo, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 21:26:13,653 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 21:26:17,341 basehttp "OPTIONS /wms/api/GetWeeksRange?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 0
+INFO 2024-11-15 21:26:17,341 basehttp "OPTIONS /wms/api/get_plans?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 0
+INFO 2024-11-15 21:26:17,341 basehttp "OPTIONS /wms/api/get_version?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 0
+INFO 2024-11-15 21:26:17,413 middleware User: PremeCo, Request method: GET, Request path: /wms/api/get_version
+INFO 2024-11-15 21:26:17,415 middleware User: PremeCo, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-15 21:26:17,422 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 38
+INFO 2024-11-15 21:26:17,435 middleware User: PremeCo, Request method: GET, Request path: /wms/api/get_plans
+INFO 2024-11-15 21:26:17,459 basehttp "GET /wms/api/get_version?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 48
+INFO 2024-11-15 21:26:18,499 basehttp "GET /wms/api/get_plans?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 140390
+INFO 2024-11-15 21:27:10,773 middleware User: PremeCo, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 21:27:10,778 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 21:27:10,801 middleware User: PremeCo, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-15 21:27:10,813 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-15 21:27:10,863 middleware User: PremeCo, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 21:27:10,874 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33
+INFO 2024-11-15 21:27:10,924 middleware User: PremeCo, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-15 21:27:10,931 basehttp "GET /wms/api/getweek?date=2024-11-15 HTTP/1.1" 200 33

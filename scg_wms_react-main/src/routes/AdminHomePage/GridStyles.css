@@ -1,0 +1,18 @@
+.grid-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.grid-header {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+.grid-cell {
+    padding: 5px;
+    color: #e4e4e4;
+}
+
+.table-column-2 {
+    width: 10%; /* Adjust the width value as needed */
+  }

@@ -1,0 +1,661 @@
+INFO 2024-10-31 13:00:43,307 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 13:00:43,320 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 13:00:43,341 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 13:00:43,353 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 13:00:43,499 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-10-31 13:00:43,527 basehttp "GET /wms/api/getweek?date=2024-10-31 HTTP/1.1" 200 33
+INFO 2024-10-31 13:00:43,602 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-10-31 13:00:43,609 basehttp "GET /wms/api/getweek?date=2024-10-31 HTTP/1.1" 200 33
+INFO 2024-10-31 13:00:45,757 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-10-31 13:00:45,758 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-10-31 13:00:45,768 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-10-31 13:00:46,370 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 78733
+INFO 2024-10-31 13:01:42,107 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 13:01:42,114 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 13:01:42,135 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 13:01:42,141 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 13:01:42,314 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-10-31 13:01:42,335 basehttp "GET /wms/api/getweek?date=2024-10-31 HTTP/1.1" 200 33
+INFO 2024-10-31 13:01:42,415 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-10-31 13:01:42,426 basehttp "GET /wms/api/getweek?date=2024-10-31 HTTP/1.1" 200 33
+INFO 2024-10-31 13:01:47,464 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-10-31 13:01:47,466 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-10-31 13:01:47,476 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-10-31 13:01:47,952 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 78733
+INFO 2024-10-31 13:02:53,886 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 13:02:53,897 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 13:02:53,931 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 13:02:53,946 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 13:02:54,143 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-10-31 13:02:54,168 basehttp "GET /wms/api/getweek?date=2024-10-31 HTTP/1.1" 200 33
+INFO 2024-10-31 13:02:54,187 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-10-31 13:02:54,193 basehttp "GET /wms/api/getweek?date=2024-10-31 HTTP/1.1" 200 33
+INFO 2024-10-31 13:02:56,675 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-10-31 13:02:56,676 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-10-31 13:02:56,686 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-20&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-10-31 13:02:57,262 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-20&end_date=2024-10-30 HTTP/1.1" 200 78723
+INFO 2024-10-31 13:03:38,626 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 13:03:38,635 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 13:03:38,657 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 13:03:38,670 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 13:03:38,826 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-10-31 13:03:38,842 basehttp "GET /wms/api/getweek?date=2024-10-31 HTTP/1.1" 200 33
+INFO 2024-10-31 13:03:38,914 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-10-31 13:03:38,927 basehttp "GET /wms/api/getweek?date=2024-10-31 HTTP/1.1" 200 33
+INFO 2024-10-31 13:03:41,350 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-10-31 13:03:41,352 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-10-31 13:03:41,364 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-10-31 13:03:41,935 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 78733
+INFO 2024-10-31 13:03:43,125 basehttp "OPTIONS /wms/api/get_sent_approve?zca=ZCA65210143001&listmc_done[]=CM5&week=40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 0
+INFO 2024-10-31 13:03:43,194 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-10-31 13:03:43,214 basehttp "GET /wms/api/get_sent_approve?zca=ZCA65210143001&listmc_done[]=CM5&week=40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 31
+INFO 2024-10-31 13:03:46,863 basehttp "OPTIONS /wms/api/get_sent_approve?zca=ZCA64410100003&listmc_done[]=HS9&week=40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 0
+INFO 2024-10-31 13:03:46,921 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-10-31 13:03:46,937 basehttp "GET /wms/api/get_sent_approve?zca=ZCA64410100003&listmc_done[]=HS9&week=40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 385
+INFO 2024-10-31 13:03:48,498 basehttp "OPTIONS /wms/api/get_sent_approve?zca=ZCAWC010100001&listmc_done[]=HS8&week=40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 0
+INFO 2024-10-31 13:03:48,561 middleware User: Preme, Request method: GET, Request path: /wms/api/get_sent_approve
+INFO 2024-10-31 13:03:48,573 basehttp "GET /wms/api/get_sent_approve?zca=ZCAWC010100001&listmc_done[]=HS8&week=40&startdate=2024-10-30T17:00:00.000Z HTTP/1.1" 200 1724
+INFO 2024-10-31 13:04:07,294 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-10-31 13:04:07,295 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-10-31 13:04:07,301 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-10-31 13:04:07,842 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 78733
+INFO 2024-10-31 13:04:12,000 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-10-31 13:04:12,001 middleware User: Preme, Request method: GET, Request path: /wms/api/get_version
+INFO 2024-10-31 13:04:12,004 middleware User: Preme, Request method: GET, Request path: /wms/api/get_plans
+INFO 2024-10-31 13:04:12,015 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-10-31 13:04:12,017 basehttp "GET /wms/api/get_version?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 43
+INFO 2024-10-31 13:04:13,609 basehttp "GET /wms/api/get_plans?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 205642
+INFO 2024-10-31 13:04:17,450 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-10-31 13:04:17,452 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-10-31 13:04:17,463 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-10-31 13:04:18,029 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 78733
+INFO 2024-10-31 13:04:24,254 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 0
+INFO 2024-10-31 13:04:24,297 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-10-31 13:04:24,310 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 4414
+INFO 2024-10-31 13:05:01,803 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 13:05:01,811 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 13:05:02,835 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 13:05:02,840 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 13:05:07,378 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 13:05:07,384 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 13:05:07,406 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 13:05:07,417 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 13:05:07,563 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-10-31 13:05:07,570 basehttp "GET /wms/api/getweek?date=2024-10-31 HTTP/1.1" 200 33
+INFO 2024-10-31 13:05:07,593 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-10-31 13:05:07,600 basehttp "GET /wms/api/getweek?date=2024-10-31 HTTP/1.1" 200 33
+INFO 2024-10-31 13:05:09,354 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-10-31 13:05:09,358 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 13:05:09,373 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 13:05:09,414 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813753
+INFO 2024-10-31 13:05:09,446 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-10-31 13:05:09,532 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813753
+INFO 2024-10-31 13:05:10,215 middleware User: Preme, Request method: GET, Request path: /wms/api/getalluser
+INFO 2024-10-31 13:05:10,217 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 13:05:10,223 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 13:05:10,225 basehttp "GET /wms/api/getalluser HTTP/1.1" 200 5962
+INFO 2024-10-31 13:05:10,245 middleware User: Preme, Request method: GET, Request path: /wms/api/getalluser
+INFO 2024-10-31 13:05:10,265 basehttp "GET /wms/api/getalluser HTTP/1.1" 200 5962
+INFO 2024-10-31 13:05:11,273 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-10-31 13:05:11,275 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 13:05:11,287 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 13:05:11,313 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813753
+INFO 2024-10-31 13:05:11,339 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-10-31 13:05:11,393 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813753
+INFO 2024-10-31 13:05:12,250 middleware User: Preme, Request method: GET, Request path: /wms/api/get_editzcawip
+INFO 2024-10-31 13:05:12,517 basehttp "GET /wms/api/get_editzcawip HTTP/1.1" 200 2138348
+INFO 2024-10-31 13:05:12,608 middleware User: Preme, Request method: GET, Request path: /wms/api/get_editzcawip
+INFO 2024-10-31 13:05:12,805 middleware User: Preme, Request method: GET, Request path: /wms/api/get_editzcafg
+INFO 2024-10-31 13:05:12,945 basehttp "GET /wms/api/get_editzcafg HTTP/1.1" 200 714346
+INFO 2024-10-31 13:05:13,038 middleware User: Preme, Request method: GET, Request path: /wms/api/get_editzcafg
+INFO 2024-10-31 13:05:13,102 basehttp "GET /wms/api/get_editzcawip HTTP/1.1" 200 2138348
+INFO 2024-10-31 13:05:13,207 basehttp "GET /wms/api/get_editzcafg HTTP/1.1" 200 714346
+INFO 2024-10-31 13:05:13,595 middleware User: Preme, Request method: GET, Request path: /wms/api/get_editprocesslock
+INFO 2024-10-31 13:05:13,633 basehttp "GET /wms/api/get_editprocesslock HTTP/1.1" 200 233637
+INFO 2024-10-31 13:05:13,781 middleware User: Preme, Request method: GET, Request path: /wms/api/get_editprocesslock
+INFO 2024-10-31 13:05:13,859 basehttp "GET /wms/api/get_editprocesslock HTTP/1.1" 200 233637
+INFO 2024-10-31 13:06:48,047 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 13:06:48,050 middleware User: Preme, Request method: GET, Request path: /wms/api/getalluser
+INFO 2024-10-31 13:06:48,055 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 13:06:48,057 basehttp "GET /wms/api/getalluser HTTP/1.1" 200 5962
+INFO 2024-10-31 13:06:48,075 middleware User: Preme, Request method: GET, Request path: /wms/api/getalluser
+INFO 2024-10-31 13:06:48,086 basehttp "GET /wms/api/getalluser HTTP/1.1" 200 5962
+INFO 2024-10-31 13:08:08,307 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-10-31 13:08:08,309 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-10-31 13:08:08,319 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-10-31 13:08:08,963 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 78733
+INFO 2024-10-31 13:08:46,345 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-10-31 13:08:46,347 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-10-31 13:08:46,353 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-10-31 13:08:46,793 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 78733
+INFO 2024-10-31 14:27:15,893 basehttp "OPTIONS /wms/api/get_material HTTP/1.1" 200 0
+INFO 2024-10-31 14:27:15,893 basehttp "OPTIONS /wms/api/get_material HTTP/1.1" 200 0
+INFO 2024-10-31 14:27:15,961 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-10-31 14:27:15,964 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 14:27:15,972 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 14:27:15,996 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813753
+INFO 2024-10-31 14:27:16,015 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-10-31 14:27:16,135 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813753
+INFO 2024-10-31 14:27:16,909 basehttp "OPTIONS /wms/api/getalluser HTTP/1.1" 200 0
+INFO 2024-10-31 14:27:16,909 basehttp "OPTIONS /wms/api/getalluser HTTP/1.1" 200 0
+INFO 2024-10-31 14:27:16,933 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 14:27:16,942 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 14:27:16,953 middleware User: Preme, Request method: GET, Request path: /wms/api/getalluser
+INFO 2024-10-31 14:27:16,958 basehttp "GET /wms/api/getalluser HTTP/1.1" 200 5962
+INFO 2024-10-31 14:27:16,979 middleware User: Preme, Request method: GET, Request path: /wms/api/getalluser
+INFO 2024-10-31 14:27:16,991 basehttp "GET /wms/api/getalluser HTTP/1.1" 200 5962
+INFO 2024-10-31 14:27:17,714 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 14:27:17,716 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-10-31 14:27:17,720 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 14:27:17,756 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813753
+INFO 2024-10-31 14:27:17,775 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-10-31 14:27:17,844 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813753
+INFO 2024-10-31 14:27:18,045 basehttp "OPTIONS /wms/api/get_editprocesslock HTTP/1.1" 200 0
+INFO 2024-10-31 14:27:18,045 basehttp "OPTIONS /wms/api/get_editprocesslock HTTP/1.1" 200 0
+INFO 2024-10-31 14:27:18,108 middleware User: Preme, Request method: GET, Request path: /wms/api/get_editprocesslock
+INFO 2024-10-31 14:27:18,131 basehttp "GET /wms/api/get_editprocesslock HTTP/1.1" 200 233637
+INFO 2024-10-31 14:27:18,152 middleware User: Preme, Request method: GET, Request path: /wms/api/get_editprocesslock
+INFO 2024-10-31 14:27:18,185 basehttp "GET /wms/api/get_editprocesslock HTTP/1.1" 200 233637
+INFO 2024-10-31 14:27:22,983 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 14:27:22,990 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 14:27:46,230 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-10-31 14:27:46,240 log Forbidden: /wms/api/check_session
+WARNING 2024-10-31 14:27:46,241 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-10-31 14:27:46,242 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-10-31 14:27:46,243 log Forbidden: /wms/api/check_session
+WARNING 2024-10-31 14:27:46,243 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-10-31 14:27:46,244 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-10-31 14:27:46,244 log Forbidden: /wms/api/check_session
+WARNING 2024-10-31 14:27:46,244 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-10-31 15:01:10,707 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-10-31 15:01:10,819 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 15:01:10,828 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 15:01:12,326 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 15:01:12,331 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 15:01:31,304 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 15:01:31,310 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-10-31 15:01:31,968 middleware User: Preme, Request method: GET, Request path: /wms/api/get_stock_location
+INFO 2024-10-31 15:01:32,591 basehttp "GET /wms/api/get_stock_location HTTP/1.1" 200 263960
+INFO 2024-10-31 15:01:32,613 middleware User: Preme, Request method: GET, Request path: /wms/api/get_stock_location
+INFO 2024-10-31 15:01:33,298 basehttp "GET /wms/api/get_stock_location HTTP/1.1" 200 263960
+INFO 2024-10-31 15:01:38,545 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-10-31 15:01:38,551 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 08:02:16,731 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-01 08:02:16,846 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 08:02:16,858 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 08:02:20,103 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 08:02:20,111 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 08:02:20,826 basehttp "OPTIONS /wms/api/demand HTTP/1.1" 200 0
+INFO 2024-11-01 08:02:20,827 basehttp "OPTIONS /wms/api/demand HTTP/1.1" 200 0
+INFO 2024-11-01 08:02:20,831 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 08:02:20,839 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 08:02:20,876 middleware User: Preme, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 08:02:20,890 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 08:02:20,912 middleware User: Preme, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 08:02:20,926 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 08:02:22,158 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 08:02:22,166 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 08:02:22,775 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 08:02:22,782 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 08:02:23,128 basehttp "OPTIONS /wms/api/get_appointments HTTP/1.1" 200 0
+INFO 2024-11-01 08:02:23,131 basehttp "OPTIONS /wms/api/get_options HTTP/1.1" 200 0
+INFO 2024-11-01 08:02:23,138 basehttp "OPTIONS /wms/api/get_appointments HTTP/1.1" 200 0
+INFO 2024-11-01 08:02:23,149 basehttp "OPTIONS /wms/api/get_options HTTP/1.1" 200 0
+INFO 2024-11-01 08:02:23,209 middleware User: Preme, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-01 08:02:23,218 middleware User: Preme, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 08:02:23,222 middleware User: Preme, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-11-01 08:02:23,224 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-11-01 08:02:23,271 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 08:02:23,282 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105263
+INFO 2024-11-01 08:02:23,297 middleware User: Preme, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-01 08:02:23,306 middleware User: Preme, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 08:02:23,308 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-11-01 08:02:23,320 middleware User: Preme, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-11-01 08:02:23,332 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 08:02:23,344 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105263
+INFO 2024-11-01 08:02:43,970 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 08:02:43,976 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 08:02:50,058 basehttp "OPTIONS /wms/api/get_plans?start_date=2024-11-11&end_date=2024-11-29 HTTP/1.1" 200 0
+INFO 2024-11-01 08:02:50,059 basehttp "OPTIONS /wms/api/GetWeeksRange?start_date=2024-11-11&end_date=2024-11-29 HTTP/1.1" 200 0
+INFO 2024-11-01 08:02:50,059 basehttp "OPTIONS /wms/api/get_version?start_date=2024-11-11&end_date=2024-11-29 HTTP/1.1" 200 0
+INFO 2024-11-01 08:02:50,129 middleware User: Preme, Request method: GET, Request path: /wms/api/get_plans
+INFO 2024-11-01 08:02:50,133 middleware User: Preme, Request method: GET, Request path: /wms/api/get_version
+INFO 2024-11-01 08:02:50,136 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+WARNING 2024-11-01 08:02:50,146 log Not Found: /wms/api/get_plans
+WARNING 2024-11-01 08:02:50,147 basehttp "GET /wms/api/get_plans?start_date=2024-11-11&end_date=2024-11-29 HTTP/1.1" 404 49
+INFO 2024-11-01 08:02:50,180 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-11-11&end_date=2024-11-29 HTTP/1.1" 200 38
+WARNING 2024-11-01 08:02:50,231 log Not Found: /wms/api/get_version
+WARNING 2024-11-01 08:02:50,231 basehttp "GET /wms/api/get_version?start_date=2024-11-11&end_date=2024-11-29 HTTP/1.1" 404 69
+INFO 2024-11-01 08:02:55,675 basehttp "OPTIONS /wms/api/get_remain_plan?start_date=2024-11-18&end_date=2024-11-29 HTTP/1.1" 200 0
+INFO 2024-11-01 08:02:55,675 basehttp "OPTIONS /wms/api/GetWeeksRange?start_date=2024-11-18&end_date=2024-11-29 HTTP/1.1" 200 0
+INFO 2024-11-01 08:02:55,747 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-01 08:02:55,750 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-01 08:02:55,760 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-11-18&end_date=2024-11-29 HTTP/1.1" 200 38
+INFO 2024-11-01 08:02:55,777 basehttp "GET /wms/api/get_remain_plan?start_date=2024-11-18&end_date=2024-11-29 HTTP/1.1" 200 290
+INFO 2024-11-01 08:31:57,136 basehttp "OPTIONS /wms/api/get_remain_plan?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 0
+INFO 2024-11-01 08:31:57,137 basehttp "OPTIONS /wms/api/GetWeeksRange?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 0
+INFO 2024-11-01 08:31:57,247 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-01 08:31:57,524 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-01 08:31:57,552 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 38
+INFO 2024-11-01 08:31:57,578 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 290
+INFO 2024-11-01 08:32:00,880 basehttp "OPTIONS /wms/api/get_remain_plan?start_date=2024-10-20&end_date=2024-10-30 HTTP/1.1" 200 0
+INFO 2024-11-01 08:32:00,881 basehttp "OPTIONS /wms/api/GetWeeksRange?start_date=2024-10-20&end_date=2024-10-30 HTTP/1.1" 200 0
+INFO 2024-11-01 08:32:00,942 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-01 08:32:00,944 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-01 08:32:00,957 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-20&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-11-01 08:32:01,335 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-20&end_date=2024-10-30 HTTP/1.1" 200 78723
+INFO 2024-11-01 08:32:06,906 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-01 08:32:06,906 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-01 08:32:06,958 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 08:32:06,964 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 08:32:06,984 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 08:32:06,997 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 08:32:07,101 basehttp "OPTIONS /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 0
+INFO 2024-11-01 08:32:07,104 basehttp "OPTIONS /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 0
+INFO 2024-11-01 08:32:07,205 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 08:32:07,210 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 08:32:07,259 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 08:32:07,267 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 08:32:10,027 basehttp "OPTIONS /wms/api/GetWeeksRange?start_date=2024-11-19&end_date=2024-11-29 HTTP/1.1" 200 0
+INFO 2024-11-01 08:32:10,027 basehttp "OPTIONS /wms/api/get_version?start_date=2024-11-19&end_date=2024-11-29 HTTP/1.1" 200 0
+INFO 2024-11-01 08:32:10,028 basehttp "OPTIONS /wms/api/get_plans?start_date=2024-11-19&end_date=2024-11-29 HTTP/1.1" 200 0
+INFO 2024-11-01 08:32:10,131 middleware User: Preme, Request method: GET, Request path: /wms/api/get_version
+INFO 2024-11-01 08:32:10,132 middleware User: Preme, Request method: GET, Request path: /wms/api/get_plans
+INFO 2024-11-01 08:32:10,142 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+WARNING 2024-11-01 08:32:10,146 log Not Found: /wms/api/get_plans
+WARNING 2024-11-01 08:32:10,146 basehttp "GET /wms/api/get_plans?start_date=2024-11-19&end_date=2024-11-29 HTTP/1.1" 404 49
+WARNING 2024-11-01 08:32:10,155 log Not Found: /wms/api/get_version
+WARNING 2024-11-01 08:32:10,155 basehttp "GET /wms/api/get_version?start_date=2024-11-19&end_date=2024-11-29 HTTP/1.1" 404 69
+INFO 2024-11-01 08:32:10,159 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-11-19&end_date=2024-11-29 HTTP/1.1" 200 38
+INFO 2024-11-01 08:32:12,535 basehttp "OPTIONS /wms/api/get_plans?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 0
+INFO 2024-11-01 08:32:12,536 basehttp "OPTIONS /wms/api/get_version?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 0
+INFO 2024-11-01 08:32:12,589 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-01 08:32:12,593 middleware User: Preme, Request method: GET, Request path: /wms/api/get_plans
+INFO 2024-11-01 08:32:12,596 middleware User: Preme, Request method: GET, Request path: /wms/api/get_version
+INFO 2024-11-01 08:32:12,599 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 38
+WARNING 2024-11-01 08:32:12,607 log Not Found: /wms/api/get_plans
+WARNING 2024-11-01 08:32:12,608 basehttp "GET /wms/api/get_plans?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 404 49
+WARNING 2024-11-01 08:32:12,614 log Not Found: /wms/api/get_version
+WARNING 2024-11-01 08:32:12,615 basehttp "GET /wms/api/get_version?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 404 69
+INFO 2024-11-01 08:32:17,543 basehttp "OPTIONS /wms/api/get_plans?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 0
+INFO 2024-11-01 08:32:17,545 basehttp "OPTIONS /wms/api/get_version?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 0
+INFO 2024-11-01 08:32:17,547 basehttp "OPTIONS /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 0
+INFO 2024-11-01 08:32:17,599 middleware User: Preme, Request method: GET, Request path: /wms/api/get_plans
+INFO 2024-11-01 08:32:17,601 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-01 08:32:17,602 middleware User: Preme, Request method: GET, Request path: /wms/api/get_version
+INFO 2024-11-01 08:32:17,611 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-11-01 08:32:17,622 basehttp "GET /wms/api/get_version?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 43
+INFO 2024-11-01 08:32:18,753 basehttp "GET /wms/api/get_plans?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 205642
+INFO 2024-11-01 08:33:34,188 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 08:33:34,194 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 08:33:34,214 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 08:33:34,222 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 08:33:34,388 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 08:33:34,403 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 08:33:34,430 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 08:33:34,443 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 09:36:05,778 middleware User: Preme, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-01 09:36:05,791 middleware User: Preme, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-01 09:36:05,819 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 38
+INFO 2024-11-01 09:36:05,859 basehttp "GET /wms/api/get_remain_plan?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 290
+INFO 2024-11-01 10:08:13,777 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-01 10:08:13,779 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-01 10:08:13,867 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:08:13,875 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 10:08:13,895 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:08:13,909 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 10:08:14,070 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:08:14,076 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:08:14,092 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:08:14,103 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:17:24,837 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:17:24,851 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 10:17:24,863 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:17:24,873 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:17:24,876 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:17:24,888 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 10:17:24,899 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:17:24,908 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:17:28,110 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:17:28,118 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 10:20:07,689 basehttp "OPTIONS /wms/api/logout HTTP/1.1" 200 0
+INFO 2024-11-01 10:20:07,765 middleware User: Preme, Request method: GET, Request path: /wms/api/logout
+INFO 2024-11-01 10:20:07,780 basehttp "GET /wms/api/logout HTTP/1.1" 200 77
+INFO 2024-11-01 10:20:18,916 basehttp "OPTIONS /wms/api/login HTTP/1.1" 200 0
+INFO 2024-11-01 10:20:18,924 middleware User: Anonymous, Request method: POST, Request path: /wms/api/login
+INFO 2024-11-01 10:20:19,209 basehttp "POST /wms/api/login HTTP/1.1" 200 91
+INFO 2024-11-01 10:20:19,249 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:20:19,255 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 10:20:19,274 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:20:19,288 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 10:20:19,412 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:20:19,435 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:20:19,487 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:20:19,500 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:20:32,892 middleware User: Preme, Request method: GET, Request path: /wms/api/logout
+INFO 2024-11-01 10:20:32,896 basehttp "GET /wms/api/logout HTTP/1.1" 200 77
+INFO 2024-11-01 10:20:39,483 middleware User: Anonymous, Request method: POST, Request path: /wms/api/login
+INFO 2024-11-01 10:20:39,757 basehttp "POST /wms/api/login HTTP/1.1" 200 98
+INFO 2024-11-01 10:20:39,795 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:20:39,800 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:20:39,827 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:20:39,841 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:20:39,976 middleware User: jengProd, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:20:39,990 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:20:40,008 middleware User: jengProd, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:20:40,014 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:20:48,371 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:20:48,383 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:20:48,416 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:20:48,423 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:22:23,819 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:22:23,852 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:22:23,890 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:22:23,902 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:22:23,909 middleware User: jengProd, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:22:23,924 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:22:23,954 middleware User: jengProd, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:22:23,965 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:22:30,183 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:22:30,195 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:22:31,624 basehttp "OPTIONS /wms/api/demand HTTP/1.1" 200 0
+INFO 2024-11-01 10:22:31,628 basehttp "OPTIONS /wms/api/demand HTTP/1.1" 200 0
+INFO 2024-11-01 10:22:31,662 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:22:31,668 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:22:31,670 middleware User: jengProd, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 10:22:31,689 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 10:22:31,727 middleware User: jengProd, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 10:22:31,751 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 10:22:32,829 basehttp "OPTIONS /wms/api/get_stockestimate HTTP/1.1" 200 0
+INFO 2024-11-01 10:22:32,829 basehttp "OPTIONS /wms/api/get_stockestimate HTTP/1.1" 200 0
+INFO 2024-11-01 10:22:32,837 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:22:32,848 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:22:32,877 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_stockestimate
+INFO 2024-11-01 10:22:33,505 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:22:33,514 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:22:34,549 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:22:34,556 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:22:35,016 middleware User: jengProd, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 10:22:35,028 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 10:22:35,090 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:22:35,108 middleware User: jengProd, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 10:22:35,121 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:22:35,141 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 10:22:35,395 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:22:35,402 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:22:38,303 basehttp "GET /wms/api/get_stockestimate HTTP/1.1" 200 6626
+INFO 2024-11-01 10:22:38,315 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_stockestimate
+INFO 2024-11-01 10:22:42,332 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_stockestimate
+INFO 2024-11-01 10:22:44,122 basehttp - Broken pipe from ('127.0.0.1', 55281)
+INFO 2024-11-01 10:22:44,730 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:22:44,738 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:22:44,782 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:22:44,806 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:22:45,036 basehttp "OPTIONS /wms/api/get_appointments HTTP/1.1" 200 0
+INFO 2024-11-01 10:22:45,038 basehttp "OPTIONS /wms/api/get_options HTTP/1.1" 200 0
+INFO 2024-11-01 10:22:45,045 basehttp "OPTIONS /wms/api/get_appointments HTTP/1.1" 200 0
+INFO 2024-11-01 10:22:45,050 basehttp "OPTIONS /wms/api/get_options HTTP/1.1" 200 0
+INFO 2024-11-01 10:22:45,175 middleware User: jengProd, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 10:22:45,182 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-11-01 10:22:45,191 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-01 10:22:45,196 middleware User: jengProd, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:22:45,199 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 10:22:45,206 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105263
+INFO 2024-11-01 10:22:45,216 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-11-01 10:22:45,228 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:22:45,262 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-11-01 10:22:45,274 middleware User: jengProd, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 10:22:45,386 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-01 10:22:45,391 middleware User: jengProd, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:22:45,394 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105263
+INFO 2024-11-01 10:22:45,400 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 10:22:45,407 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-11-01 10:22:45,415 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:22:48,509 basehttp - Broken pipe from ('127.0.0.1', 55293)
+INFO 2024-11-01 10:23:12,397 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:23:12,406 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:23:12,427 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:23:12,436 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:23:12,455 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:23:12,463 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:23:16,923 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:23:16,933 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:23:17,151 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:23:17,159 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:23:17,182 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:23:17,190 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:23:55,374 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:23:55,382 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:23:55,403 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:23:55,414 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:23:55,688 middleware User: jengProd, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:23:55,701 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:23:55,727 middleware User: jengProd, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 10:23:55,732 middleware User: jengProd, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:23:55,736 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-01 10:23:55,738 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 10:23:55,744 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-11-01 10:23:55,751 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:23:55,768 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-11-01 10:23:55,794 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105263
+INFO 2024-11-01 10:23:55,803 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-01 10:23:55,813 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-11-01 10:23:55,822 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-11-01 10:23:55,834 middleware User: jengProd, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 10:23:55,843 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105263
+INFO 2024-11-01 10:23:55,847 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 10:24:06,529 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:24:06,534 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:24:08,079 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:24:08,083 middleware User: jengProd, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 10:24:08,085 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:24:08,091 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 10:24:08,128 middleware User: jengProd, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 10:24:08,160 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 10:24:09,105 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:24:09,118 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:24:29,005 basehttp "OPTIONS /wms/api/get_plans?start_date=2024-11-19&end_date=2024-11-29 HTTP/1.1" 200 0
+INFO 2024-11-01 10:24:29,012 basehttp "OPTIONS /wms/api/GetWeeksRange?start_date=2024-11-19&end_date=2024-11-29 HTTP/1.1" 200 0
+INFO 2024-11-01 10:24:29,101 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_version
+INFO 2024-11-01 10:24:29,104 middleware User: jengProd, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-01 10:24:29,115 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_plans
+INFO 2024-11-01 10:24:29,129 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-11-19&end_date=2024-11-29 HTTP/1.1" 200 38
+WARNING 2024-11-01 10:24:29,138 log Not Found: /wms/api/get_version
+WARNING 2024-11-01 10:24:29,140 basehttp "GET /wms/api/get_version?start_date=2024-11-19&end_date=2024-11-29 HTTP/1.1" 404 69
+WARNING 2024-11-01 10:24:29,151 log Not Found: /wms/api/get_plans
+WARNING 2024-11-01 10:24:29,154 basehttp "GET /wms/api/get_plans?start_date=2024-11-19&end_date=2024-11-29 HTTP/1.1" 404 49
+INFO 2024-11-01 10:24:33,024 basehttp "OPTIONS /wms/api/get_plans?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 0
+INFO 2024-11-01 10:24:33,084 middleware User: jengProd, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-01 10:24:33,089 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_plans
+INFO 2024-11-01 10:24:33,093 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 200 38
+INFO 2024-11-01 10:24:33,093 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_version
+WARNING 2024-11-01 10:24:33,119 log Not Found: /wms/api/get_plans
+WARNING 2024-11-01 10:24:33,121 basehttp "GET /wms/api/get_plans?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 404 49
+WARNING 2024-11-01 10:24:33,127 log Not Found: /wms/api/get_version
+WARNING 2024-11-01 10:24:33,129 basehttp "GET /wms/api/get_version?start_date=2024-10-31&end_date=2024-11-06 HTTP/1.1" 404 69
+INFO 2024-11-01 10:26:42,071 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:26:42,078 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:26:42,099 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:26:42,106 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:27:52,816 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:27:52,836 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:27:52,874 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:27:52,892 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:27:52,957 middleware User: jengProd, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:27:52,964 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:27:52,984 middleware User: jengProd, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:27:52,990 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:28:11,236 basehttp "OPTIONS /wms/api/get_remain_plan?start_date=2024-11-20&end_date=2024-11-29 HTTP/1.1" 200 0
+INFO 2024-11-01 10:28:11,241 basehttp "OPTIONS /wms/api/GetWeeksRange?start_date=2024-11-20&end_date=2024-11-29 HTTP/1.1" 200 0
+INFO 2024-11-01 10:28:11,330 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_remain_plan
+INFO 2024-11-01 10:28:11,333 middleware User: jengProd, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-01 10:28:11,344 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-11-20&end_date=2024-11-29 HTTP/1.1" 200 38
+INFO 2024-11-01 10:28:11,415 basehttp "GET /wms/api/get_remain_plan?start_date=2024-11-20&end_date=2024-11-29 HTTP/1.1" 200 290
+INFO 2024-11-01 10:28:18,099 middleware User: jengProd, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-01 10:28:18,101 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_plans
+INFO 2024-11-01 10:28:18,104 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_version
+INFO 2024-11-01 10:28:18,110 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-11-19&end_date=2024-11-29 HTTP/1.1" 200 38
+WARNING 2024-11-01 10:28:18,123 log Not Found: /wms/api/get_plans
+WARNING 2024-11-01 10:28:18,124 basehttp "GET /wms/api/get_plans?start_date=2024-11-19&end_date=2024-11-29 HTTP/1.1" 404 49
+WARNING 2024-11-01 10:28:18,136 log Not Found: /wms/api/get_version
+WARNING 2024-11-01 10:28:18,137 basehttp "GET /wms/api/get_version?start_date=2024-11-19&end_date=2024-11-29 HTTP/1.1" 404 69
+INFO 2024-11-01 10:28:21,579 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:28:21,588 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:28:28,560 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:28:28,568 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:28:28,573 middleware User: jengProd, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:28:28,581 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:28:28,593 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:28:28,600 middleware User: jengProd, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:28:28,601 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:28:28,607 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:28:30,118 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:28:30,127 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:28:38,348 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:28:38,361 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:28:38,418 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-01 10:28:38,431 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-11-01 10:28:38,458 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-11-01 10:28:38,464 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-01 10:28:38,466 middleware User: jengProd, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 10:28:38,479 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-11-01 10:28:38,487 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 10:28:38,492 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105263
+INFO 2024-11-01 10:28:38,517 middleware User: jengProd, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 10:28:38,522 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-11-01 10:28:38,538 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 10:28:38,543 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105263
+INFO 2024-11-01 10:28:39,555 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:28:39,561 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:28:40,182 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:28:40,185 middleware User: jengProd, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 10:28:40,187 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:28:40,193 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 10:28:40,243 middleware User: jengProd, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 10:28:40,269 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 10:28:40,596 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-01 10:28:40,599 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-11-01 10:28:40,612 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-11-01 10:28:40,634 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105263
+INFO 2024-11-01 10:28:40,647 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:28:40,651 middleware User: jengProd, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 10:28:40,655 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-01 10:28:40,661 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:28:40,664 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-11-01 10:28:40,666 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-11-01 10:28:40,677 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 10:28:40,681 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105263
+INFO 2024-11-01 10:28:40,698 middleware User: jengProd, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 10:28:40,712 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 10:28:44,908 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-10-27T03:28:40.543Z&end_date=2024-11-02T03:28:40.543Z&planid=1 HTTP/1.1" 200 0
+INFO 2024-11-01 10:28:44,972 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-11-01 10:28:45,010 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-10-27T03:28:40.543Z&end_date=2024-11-02T03:28:40.543Z&planid=1 HTTP/1.1" 200 1831
+INFO 2024-11-01 10:28:45,450 basehttp "OPTIONS /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 0
+INFO 2024-11-01 10:28:45,518 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-01 10:28:45,537 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9943
+INFO 2024-11-01 10:29:30,971 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:29:30,977 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:29:31,647 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:29:31,654 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:29:32,172 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:29:32,177 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:29:32,471 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:29:32,480 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:29:32,741 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:29:32,751 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:29:33,184 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_stock_location
+INFO 2024-11-01 10:29:33,951 basehttp "GET /wms/api/get_stock_location HTTP/1.1" 200 263960
+INFO 2024-11-01 10:29:33,978 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_stock_location
+INFO 2024-11-01 10:29:35,135 basehttp "GET /wms/api/get_stock_location HTTP/1.1" 200 263960
+INFO 2024-11-01 10:29:35,328 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:29:35,343 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:29:37,039 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:29:37,045 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:29:37,836 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:29:37,844 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:29:40,000 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:29:40,006 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:29:40,863 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:29:40,870 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:29:45,986 basehttp "OPTIONS /wms/api/get_plans?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 0
+INFO 2024-11-01 10:29:46,075 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_version
+INFO 2024-11-01 10:29:46,078 middleware User: jengProd, Request method: GET, Request path: /wms/api/GetWeeksRange
+INFO 2024-11-01 10:29:46,080 middleware User: jengProd, Request method: GET, Request path: /wms/api/get_plans
+INFO 2024-11-01 10:29:46,095 basehttp "GET /wms/api/GetWeeksRange?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 38
+INFO 2024-11-01 10:29:46,154 basehttp "GET /wms/api/get_version?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 43
+INFO 2024-11-01 10:29:47,149 basehttp "GET /wms/api/get_plans?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 205642
+INFO 2024-11-01 10:38:53,555 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:38:53,573 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:38:53,693 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:38:53,719 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:38:53,866 middleware User: jengProd, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:38:53,880 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:38:53,909 middleware User: jengProd, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:38:53,920 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:43:01,339 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-01 10:43:01,340 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-01 10:43:01,495 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:43:01,514 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:43:01,569 middleware User: jengProd, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:43:01,598 basehttp "GET /wms/api/check_session HTTP/1.1" 200 135
+INFO 2024-11-01 10:43:01,818 middleware User: jengProd, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:43:01,834 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:43:01,869 middleware User: jengProd, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:43:01,924 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:43:03,227 middleware User: jengProd, Request method: GET, Request path: /wms/api/logout
+INFO 2024-11-01 10:43:03,237 basehttp "GET /wms/api/logout HTTP/1.1" 200 77
+INFO 2024-11-01 10:58:31,501 middleware User: Anonymous, Request method: POST, Request path: /wms/api/login
+INFO 2024-11-01 10:58:31,891 basehttp "POST /wms/api/login HTTP/1.1" 200 91
+INFO 2024-11-01 10:58:31,952 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:58:31,962 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 10:58:31,998 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 10:58:32,012 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 10:58:32,162 basehttp "OPTIONS /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 0
+INFO 2024-11-01 10:58:32,166 basehttp "OPTIONS /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 0
+INFO 2024-11-01 10:58:32,251 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:58:32,287 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 10:58:32,313 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-01 10:58:32,320 basehttp "GET /wms/api/getweek?date=2024-11-01 HTTP/1.1" 200 33
+INFO 2024-11-01 11:19:19,536 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 11:19:19,548 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 11:19:20,111 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 11:19:20,118 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 11:19:21,762 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 11:19:21,781 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-01 11:19:22,259 basehttp "OPTIONS /wms/api/get_options HTTP/1.1" 200 0
+INFO 2024-11-01 11:19:22,263 basehttp "OPTIONS /wms/api/get_appointments HTTP/1.1" 200 0
+INFO 2024-11-01 11:19:22,269 basehttp "OPTIONS /wms/api/get_options HTTP/1.1" 200 0
+INFO 2024-11-01 11:19:22,272 basehttp "OPTIONS /wms/api/demand HTTP/1.1" 200 0
+INFO 2024-11-01 11:19:22,275 basehttp "OPTIONS /wms/api/get_appointments HTTP/1.1" 200 0
+INFO 2024-11-01 11:19:22,276 basehttp "OPTIONS /wms/api/demand HTTP/1.1" 200 0
+INFO 2024-11-01 11:19:22,331 middleware User: Preme, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-01 11:19:22,334 middleware User: Preme, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 11:19:22,345 middleware User: Preme, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-11-01 11:19:22,354 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-11-01 11:19:22,364 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 11:19:22,400 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105263
+INFO 2024-11-01 11:19:22,413 middleware User: Preme, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-01 11:19:22,421 middleware User: Preme, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-01 11:19:22,430 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-01 11:19:22,434 middleware User: Preme, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-11-01 11:19:22,441 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-11-01 11:19:22,458 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105263
+INFO 2024-11-01 11:19:24,862 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-10-27T04:19:22.211Z&end_date=2024-11-02T04:19:22.211Z&planid=1 HTTP/1.1" 200 0
+INFO 2024-11-01 11:19:24,937 middleware User: Preme, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-11-01 11:19:24,999 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-10-27T04:19:22.211Z&end_date=2024-11-02T04:19:22.211Z&planid=1 HTTP/1.1" 200 1831
+INFO 2024-11-01 11:19:25,611 basehttp "OPTIONS /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 0
+INFO 2024-11-01 11:19:25,730 middleware User: Preme, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-01 11:19:25,758 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9943
+INFO 2024-11-01 11:19:33,750 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-30T17:00:00.000Z&end_date=2024-10-30T17:00:00.000Z&planid=1 HTTP/1.1" 200 0
+INFO 2024-11-01 11:19:33,832 middleware User: Preme, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-11-01 11:19:33,862 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-30T17:00:00.000Z&end_date=2024-10-30T17:00:00.000Z&planid=1 HTTP/1.1" 200 1831
+INFO 2024-11-01 11:19:34,496 middleware User: Preme, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-01 11:19:34,513 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9943
+INFO 2024-11-01 11:19:38,893 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67100100002&start_date=2024-09-30T17:00:00.000Z&end_date=2024-10-30T17:00:00.000Z&planid=1 HTTP/1.1" 200 0
+INFO 2024-11-01 11:19:38,959 middleware User: Preme, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-11-01 11:19:38,996 basehttp "GET /wms/api/get_Sche?zca=ZCA67100100002&start_date=2024-09-30T17:00:00.000Z&end_date=2024-10-30T17:00:00.000Z&planid=1 HTTP/1.1" 200 1831
+INFO 2024-11-01 11:19:39,653 middleware User: Preme, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-01 11:19:39,674 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9943
+INFO 2024-11-01 12:04:58,448 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-01 12:04:58,631 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-01 12:04:58,646 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127

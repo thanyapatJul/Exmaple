@@ -1,0 +1,19 @@
+/* schedulerStyles.css */
+
+/* Example: Increase the height of event tiles */
+.scheduler-tile {
+    height: 50px; /* Adjust the height as needed */
+    padding: 10px; /* Adjust the padding as needed */
+}
+
+/* Additional custom styles */
+.scheduler-tile-title {
+    font-size: 16px; /* Adjust the font size as needed */
+}
+
+/* Apply background color and other styles */
+.scheduler-tile-content {
+    background-color: #B3C8CF; /* Example background color */
+    border-radius: 5px; /* Rounded corners */
+    padding: 5px;
+}

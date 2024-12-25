@@ -1,0 +1,1262 @@
+INFO 2024-11-24 22:44:00,399 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-24 22:44:00,494 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-24 22:44:00,505 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 08:11:59,968 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-25 08:11:59,969 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-25 08:11:59,972 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-25 08:11:59,980 log Forbidden: /wms/api/check_session
+WARNING 2024-11-25 08:11:59,981 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-25 08:11:59,982 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-25 08:11:59,983 log Forbidden: /wms/api/check_session
+WARNING 2024-11-25 08:11:59,983 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-25 08:12:00,096 basehttp "OPTIONS /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 0
+INFO 2024-11-25 08:12:00,099 middleware User: Anonymous, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 08:12:00,099 basehttp "OPTIONS /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 0
+WARNING 2024-11-25 08:12:00,101 log Forbidden: /wms/api/getweek
+WARNING 2024-11-25 08:12:00,101 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 403 58
+INFO 2024-11-25 08:12:00,102 middleware User: Anonymous, Request method: GET, Request path: /wms/api/getweek
+WARNING 2024-11-25 08:12:00,102 log Forbidden: /wms/api/getweek
+WARNING 2024-11-25 08:12:00,102 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 403 58
+INFO 2024-11-25 08:12:06,186 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-25 08:12:06,187 log Forbidden: /wms/api/check_session
+WARNING 2024-11-25 08:12:06,187 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-25 08:12:06,188 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-25 08:12:06,188 log Forbidden: /wms/api/check_session
+WARNING 2024-11-25 08:12:06,188 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-25 08:12:06,249 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-25 08:12:06,250 log Forbidden: /wms/api/check_session
+WARNING 2024-11-25 08:12:06,250 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-25 08:12:06,315 middleware User: Anonymous, Request method: GET, Request path: /wms/api/getweek
+WARNING 2024-11-25 08:12:06,316 log Forbidden: /wms/api/getweek
+WARNING 2024-11-25 08:12:06,316 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 403 58
+INFO 2024-11-25 08:12:06,317 middleware User: Anonymous, Request method: GET, Request path: /wms/api/getweek
+WARNING 2024-11-25 08:12:06,318 log Forbidden: /wms/api/getweek
+WARNING 2024-11-25 08:12:06,319 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 403 58
+INFO 2024-11-25 08:12:10,543 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-25 08:12:10,544 log Forbidden: /wms/api/check_session
+WARNING 2024-11-25 08:12:10,544 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-25 08:12:12,323 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 08:12:12,323 basehttp "OPTIONS /wms/api/get_material HTTP/1.1" 200 0
+INFO 2024-11-25 08:12:12,324 middleware User: Anonymous, Request method: GET, Request path: /wms/api/get_material
+WARNING 2024-11-25 08:12:12,325 log Forbidden: /wms/api/check_session
+WARNING 2024-11-25 08:12:12,327 log Forbidden: /wms/api/get_material
+INFO 2024-11-25 08:12:12,327 basehttp "OPTIONS /wms/api/get_material HTTP/1.1" 200 0
+WARNING 2024-11-25 08:12:12,328 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+WARNING 2024-11-25 08:12:12,328 basehttp "GET /wms/api/get_material HTTP/1.1" 403 58
+INFO 2024-11-25 08:12:12,329 middleware User: Anonymous, Request method: GET, Request path: /wms/api/get_material
+WARNING 2024-11-25 08:12:12,330 log Forbidden: /wms/api/get_material
+WARNING 2024-11-25 08:12:12,330 basehttp "GET /wms/api/get_material HTTP/1.1" 403 58
+INFO 2024-11-25 08:12:16,187 basehttp "OPTIONS /wms/api/login HTTP/1.1" 200 0
+INFO 2024-11-25 08:12:16,189 middleware User: Anonymous, Request method: POST, Request path: /wms/api/login
+INFO 2024-11-25 08:12:16,506 basehttp "POST /wms/api/login HTTP/1.1" 200 91
+INFO 2024-11-25 08:12:16,528 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 08:12:16,533 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 08:12:16,547 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 08:12:16,564 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 08:12:16,651 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 08:12:16,664 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 08:12:16,709 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 08:12:16,713 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 08:12:20,366 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 08:12:20,367 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 08:12:20,377 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 08:12:20,414 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813729
+INFO 2024-11-25 08:12:20,429 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 08:12:20,465 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813729
+INFO 2024-11-25 08:12:54,221 basehttp "OPTIONS /wms/api/delete_material HTTP/1.1" 200 0
+INFO 2024-11-25 08:12:54,281 middleware User: Preme, Request method: POST, Request path: /wms/api/delete_material
+INFO 2024-11-25 08:12:54,314 basehttp "POST /wms/api/delete_material HTTP/1.1" 200 16
+INFO 2024-11-25 08:12:54,344 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 08:12:54,385 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 08:12:54,438 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 08:12:54,462 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 08:23:20,658 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 08:23:20,663 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 08:37:34,930 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 08:37:34,939 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:11:02,379 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:11:02,387 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:11:02,580 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:11:02,585 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:11:02,596 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:11:02,600 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:11:02,614 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:11:02,619 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:12:08,677 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:12:08,679 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:12:08,686 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:12:08,699 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:12:08,723 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:12:08,731 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:12:12,397 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:12:12,401 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:12:12,403 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:12:12,405 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:12:12,418 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:12:12,422 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:12:16,872 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:12:16,876 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:12:16,891 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:12:16,895 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:12:17,037 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:12:17,042 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:12:17,077 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:12:17,081 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:12:28,217 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:12:28,220 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:12:28,223 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:12:28,228 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:12:28,236 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:12:28,239 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:15:42,497 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:15:42,505 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:16:12,160 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:16:12,161 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:16:12,165 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:16:12,167 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:16:12,180 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:16:12,184 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:16:48,692 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/urls.py changed, reloading.
+INFO 2024-11-25 09:16:49,526 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 09:17:49,282 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:17:49,287 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:17:49,289 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:17:49,297 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:17:49,306 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:17:49,311 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:18:03,947 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:18:03,959 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:18:19,799 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:18:19,800 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:18:19,805 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:18:19,807 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:18:19,826 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:18:19,830 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:18:25,410 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:18:25,411 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:18:25,415 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:18:25,420 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:18:25,432 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:18:25,440 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:18:27,423 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:18:27,424 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:18:27,427 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:18:27,432 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:18:27,441 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:18:27,447 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:18:30,779 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:18:30,789 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:18:31,713 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:18:31,725 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:18:32,731 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:18:32,741 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:19:08,038 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:19:08,055 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:20:18,934 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:20:18,936 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 09:20:18,940 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:20:18,944 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 09:20:18,955 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 09:20:18,960 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 09:22:23,657 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 10:06:25,940 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 10:06:28,554 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 10:06:28,562 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 10:06:28,584 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 10:06:28,595 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 10:06:28,681 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 10:06:28,700 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 10:06:28,722 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:06:28,731 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 10:06:28,770 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 10:06:28,777 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:06:28,795 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:06:28,859 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:06:33,765 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 10:06:33,768 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 10:06:33,783 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 10:06:33,793 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 10:06:33,875 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 10:06:33,899 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 10:06:33,929 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 10:06:33,932 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:06:33,946 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 10:06:33,962 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:06:33,981 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:06:34,018 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:07:06,165 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 10:07:06,170 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 10:07:06,210 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 10:07:06,223 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 10:07:06,360 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:07:06,442 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 10:07:06,444 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:07:06,450 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 10:07:06,472 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:07:06,486 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 10:07:06,514 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 10:07:06,522 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:12:28,644 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-25 10:12:28,715 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 10:12:28,727 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 10:12:30,422 basehttp "OPTIONS /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 0
+INFO 2024-11-25 10:12:30,427 basehttp "OPTIONS /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 0
+INFO 2024-11-25 10:12:30,496 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 10:12:30,504 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 10:12:30,514 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 10:12:30,519 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 10:54:27,629 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 10:54:27,639 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 10:54:27,656 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 10:54:27,660 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 10:54:28,888 basehttp "OPTIONS /wms/api/get_material HTTP/1.1" 200 0
+INFO 2024-11-25 10:54:28,894 basehttp "OPTIONS /wms/api/get_material HTTP/1.1" 200 0
+INFO 2024-11-25 10:54:28,954 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:54:28,988 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:54:29,044 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:54:29,121 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:55:47,648 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:55:47,686 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:55:47,729 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:55:47,752 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:56:00,583 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:56:00,615 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:57:31,582 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:57:31,611 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:57:33,567 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:57:33,595 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:58:04,587 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:58:04,621 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:58:08,563 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:58:08,588 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:58:11,576 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:58:11,609 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:58:12,570 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:58:12,597 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:58:52,600 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:58:52,642 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:59:29,698 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 10:59:29,704 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 10:59:29,725 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 10:59:29,731 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 10:59:29,847 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 10:59:29,860 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 10:59:29,874 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 10:59:29,879 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 10:59:30,952 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:59:30,983 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:59:31,023 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:59:31,050 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 10:59:56,597 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 10:59:56,620 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:00:13,563 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:00:13,591 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:01:27,624 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:01:27,662 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:02:39,579 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:02:39,612 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:02:42,971 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:02:42,995 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:03:15,073 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:03:15,135 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:03:28,619 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:03:28,644 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:04:03,566 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:04:03,588 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:04:05,578 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:04:05,613 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:05:25,578 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:05:25,603 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:05:30,556 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:05:30,586 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:05:37,561 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:05:37,590 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:05:39,573 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:05:39,599 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:06:01,583 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:06:01,623 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:06:01,685 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:06:01,760 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:14:52,688 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:14:52,713 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:14:58,557 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:14:58,582 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:17:39,602 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:17:39,653 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:17:51,378 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:17:51,399 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:18:05,356 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:18:05,398 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:18:18,520 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:18:18,599 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:18:49,796 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:18:49,825 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:18:57,490 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 11:18:57,504 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 11:18:57,541 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 11:18:57,553 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 11:18:57,600 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 11:18:57,663 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 11:18:57,691 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 11:18:57,696 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 11:18:57,979 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:18:58,010 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:18:58,035 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:18:58,060 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:19:36,556 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:19:36,582 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813492
+INFO 2024-11-25 11:21:15,971 basehttp "OPTIONS /wms/api/post_material HTTP/1.1" 200 0
+INFO 2024-11-25 11:21:16,051 middleware User: Preme, Request method: POST, Request path: /wms/api/post_material
+INFO 2024-11-25 11:21:16,128 basehttp "POST /wms/api/post_material HTTP/1.1" 200 58
+INFO 2024-11-25 11:21:24,643 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 11:21:24,649 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 11:21:24,680 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 11:21:24,687 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 11:22:25,116 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:22:25,148 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813722
+INFO 2024-11-25 11:23:38,415 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/urls.py changed, reloading.
+INFO 2024-11-25 11:23:39,017 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 11:23:52,183 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 11:23:52,188 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 11:25:21,716 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 11:25:21,723 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 11:25:21,753 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 11:25:21,772 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 11:25:21,938 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 11:25:21,955 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 11:25:21,974 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 11:25:21,979 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 11:25:21,995 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 11:25:22,001 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 11:25:22,024 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 11:25:22,030 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 11:25:23,541 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:25:23,581 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813722
+INFO 2024-11-25 11:25:23,636 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:25:23,670 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813722
+INFO 2024-11-25 11:25:33,015 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-25 11:25:33,544 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 11:25:44,756 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:25:44,785 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813722
+INFO 2024-11-25 11:25:51,225 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 11:25:51,256 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813722
+INFO 2024-11-25 11:25:59,179 middleware User: Preme, Request method: POST, Request path: /wms/api/post_material
+INFO 2024-11-25 11:25:59,263 basehttp "POST /wms/api/post_material HTTP/1.1" 200 58
+INFO 2024-11-25 11:26:18,400 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-25 11:26:18,873 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 11:26:41,117 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-25 11:26:41,581 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 11:26:53,623 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-25 11:26:54,167 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 11:27:46,232 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-25 11:27:46,759 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 11:27:48,977 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-25 11:27:49,293 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 11:27:55,635 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-25 11:27:55,980 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 11:28:03,930 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-25 11:28:04,458 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 11:28:09,250 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-25 11:28:09,604 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 11:29:15,100 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-25 11:29:15,600 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 11:30:18,970 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-25 11:30:19,484 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 11:30:30,607 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-25 11:30:31,028 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 11:32:03,263 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-25 11:32:03,737 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 13:19:11,310 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 13:19:21,856 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-25 13:19:21,966 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:19:21,974 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:19:22,465 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:19:22,473 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:23:17,391 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-10-31&end_date=2024-11-29&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 0
+INFO 2024-11-25 13:23:17,479 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:23:17,555 basehttp "GET /wms/api/get_reject?start_date=2024-10-31&end_date=2024-11-29&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 72
+INFO 2024-11-25 13:23:37,131 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 13:23:43,586 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:23:43,597 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:23:43,616 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:23:43,623 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:23:43,743 basehttp "OPTIONS /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 0
+INFO 2024-11-25 13:23:43,768 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:23:43,831 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:23:43,865 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:23:43,874 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:23:48,736 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:23:48,759 basehttp "GET /wms/api/get_reject?start_date=2024-10-31&end_date=2024-11-29&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 72
+INFO 2024-11-25 13:23:51,131 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:23:51,149 basehttp "GET /wms/api/get_reject?start_date=2024-10-31&end_date=2024-11-29&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 72
+INFO 2024-11-25 13:23:53,283 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:23:53,299 basehttp "GET /wms/api/get_reject?start_date=2024-10-31&end_date=2024-11-29&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 72
+INFO 2024-11-25 13:23:53,453 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:23:53,470 basehttp "GET /wms/api/get_reject?start_date=2024-10-31&end_date=2024-11-29&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 72
+INFO 2024-11-25 13:23:53,636 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:23:53,656 basehttp "GET /wms/api/get_reject?start_date=2024-10-31&end_date=2024-11-29&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 72
+INFO 2024-11-25 13:23:53,841 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:23:53,860 basehttp "GET /wms/api/get_reject?start_date=2024-10-31&end_date=2024-11-29&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 72
+INFO 2024-11-25 13:23:54,024 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:23:54,045 basehttp "GET /wms/api/get_reject?start_date=2024-10-31&end_date=2024-11-29&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 72
+INFO 2024-11-25 13:23:54,229 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:23:54,249 basehttp "GET /wms/api/get_reject?start_date=2024-10-31&end_date=2024-11-29&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 72
+INFO 2024-11-25 13:23:54,494 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:23:54,515 basehttp "GET /wms/api/get_reject?start_date=2024-10-31&end_date=2024-11-29&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 72
+INFO 2024-11-25 13:23:54,685 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:23:54,705 basehttp "GET /wms/api/get_reject?start_date=2024-10-31&end_date=2024-11-29&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 72
+INFO 2024-11-25 13:23:54,890 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:23:54,912 basehttp "GET /wms/api/get_reject?start_date=2024-10-31&end_date=2024-11-29&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 72
+INFO 2024-11-25 13:23:58,138 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 0
+INFO 2024-11-25 13:23:58,208 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:23:58,228 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 3541
+INFO 2024-11-25 13:27:26,179 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:27:26,186 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:27:26,202 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:27:26,209 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:27:26,365 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:27:26,380 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:27:26,437 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:27:26,443 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:27:31,139 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:27:31,164 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 3541
+INFO 2024-11-25 13:29:20,996 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:29:21,004 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:29:21,053 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:29:21,058 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:29:21,164 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:29:21,175 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:29:21,238 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:29:21,243 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:29:26,192 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:29:26,224 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 3541
+INFO 2024-11-25 13:29:45,521 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:29:45,527 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:29:45,540 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:29:45,546 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:29:45,728 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:29:45,741 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:29:45,766 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:29:45,775 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:29:50,733 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:29:50,751 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 3541
+INFO 2024-11-25 13:31:08,267 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:31:08,275 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:31:08,291 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:31:08,295 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:31:08,428 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:31:08,442 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:31:08,470 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:31:08,480 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:32:14,318 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7&machines[]=HS3&machines[]=HS8 HTTP/1.1" 200 0
+INFO 2024-11-25 13:32:14,404 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:32:14,468 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7&machines[]=HS3&machines[]=HS8 HTTP/1.1" 200 4719
+INFO 2024-11-25 13:33:02,144 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:33:02,188 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:33:02,253 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:33:02,261 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:33:02,519 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:33:02,577 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:33:02,642 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:33:02,655 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:33:06,812 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 0
+INFO 2024-11-25 13:33:06,885 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:33:06,923 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 3383
+INFO 2024-11-25 13:33:30,328 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:33:30,346 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 3383
+INFO 2024-11-25 13:33:39,119 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:33:39,133 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 3383
+INFO 2024-11-25 13:33:44,337 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:33:44,342 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:33:44,358 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:33:44,362 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:33:44,541 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:33:44,553 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:33:44,619 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:33:44,628 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:33:50,972 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:33:50,997 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 3541
+INFO 2024-11-25 13:34:29,544 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:34:29,548 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:34:29,562 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:34:29,566 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:34:29,697 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:34:29,702 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:34:29,768 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:34:29,774 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:34:34,345 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 0
+INFO 2024-11-25 13:34:34,410 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:34:34,452 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 4122
+INFO 2024-11-25 13:36:58,497 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:36:58,512 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:36:58,528 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:36:58,534 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:36:58,673 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:36:58,684 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:36:58,714 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:36:58,720 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:37:05,508 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:37:05,535 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 3541
+INFO 2024-11-25 13:46:24,232 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:46:24,239 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:46:24,254 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:46:24,259 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:46:24,406 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:46:24,480 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:46:24,507 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:46:24,516 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:46:29,041 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-29&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 0
+INFO 2024-11-25 13:46:29,092 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:46:29,107 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-29&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 3383
+INFO 2024-11-25 13:46:46,123 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:46:46,130 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:46:46,151 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:46:46,162 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:46:46,258 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:46:46,270 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:46:46,298 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:46:46,307 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:46:53,635 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:46:53,654 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 3541
+INFO 2024-11-25 13:47:13,015 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:47:13,022 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:47:13,047 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:47:13,060 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:47:13,177 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:47:13,188 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:47:13,269 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:47:13,273 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:47:17,870 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS4&machines[]=HS5&machines[]=HS3&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 0
+INFO 2024-11-25 13:47:17,937 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:47:17,955 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS4&machines[]=HS5&machines[]=HS3&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 4122
+INFO 2024-11-25 13:48:10,920 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:48:10,928 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:48:10,949 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:48:10,997 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:48:11,174 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:48:11,181 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:48:11,205 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:48:11,214 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:48:15,172 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:48:15,199 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 4122
+INFO 2024-11-25 13:49:13,947 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:49:13,994 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 4122
+INFO 2024-11-25 13:49:17,666 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:49:17,673 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:49:17,687 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:49:17,691 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:49:17,843 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:49:17,861 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:49:17,884 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:49:17,889 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:49:22,078 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:49:22,101 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 3383
+INFO 2024-11-25 13:50:35,949 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:50:35,955 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:50:35,969 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:50:35,973 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:50:36,144 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:50:36,155 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:50:36,172 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:50:36,176 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:50:40,121 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-11-25&end_date=2024-11-25&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 0
+INFO 2024-11-25 13:50:40,198 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:50:40,217 basehttp "GET /wms/api/get_reject?start_date=2024-11-25&end_date=2024-11-25&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 72
+INFO 2024-11-25 13:50:44,511 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:50:44,530 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 4122
+INFO 2024-11-25 13:52:19,759 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:52:19,766 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:52:19,781 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:52:19,786 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:52:19,991 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:52:20,032 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:52:20,047 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:52:20,052 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:52:25,666 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-10-22&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 0
+INFO 2024-11-25 13:52:25,735 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:52:25,761 basehttp "GET /wms/api/get_reject?start_date=2024-10-22&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 2294
+INFO 2024-11-25 13:52:38,825 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:52:38,882 basehttp "GET /wms/api/get_reject?start_date=2024-10-22&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 2294
+INFO 2024-11-25 13:52:42,219 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:52:42,226 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:52:42,242 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:52:42,248 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:52:42,423 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:52:42,435 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:52:42,472 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:52:42,480 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:53:12,278 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-11-25&end_date=2024-11-25 HTTP/1.1" 200 0
+INFO 2024-11-25 13:53:12,342 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:53:12,349 basehttp "GET /wms/api/get_reject?start_date=2024-11-25&end_date=2024-11-25 HTTP/1.1" 200 72
+INFO 2024-11-25 13:53:15,610 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:53:15,614 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:53:15,627 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:53:15,631 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:53:15,769 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:53:15,780 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:53:15,813 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:53:15,821 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:53:19,777 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:53:19,801 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 3541
+INFO 2024-11-25 13:54:05,091 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:54:05,101 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:54:05,151 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:54:05,157 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:54:10,535 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:54:10,557 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 3541
+INFO 2024-11-25 13:57:16,651 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:57:16,664 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:57:24,091 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:57:24,095 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:57:24,114 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:57:24,126 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:57:24,265 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:57:24,278 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:57:24,385 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:57:24,390 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:57:24,425 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:57:24,430 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:57:24,455 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:57:24,460 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:57:28,720 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-09-30&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 0
+INFO 2024-11-25 13:57:28,793 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:57:28,829 basehttp "GET /wms/api/get_reject?start_date=2024-09-30&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 13132
+INFO 2024-11-25 13:57:32,362 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:57:32,373 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:57:32,394 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:57:32,403 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:59:30,187 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:59:30,195 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:59:30,211 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 13:59:30,216 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 13:59:30,357 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:59:30,368 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:59:30,449 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 13:59:30,456 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 13:59:34,607 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-09-30&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 0
+INFO 2024-11-25 13:59:34,677 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:59:34,711 basehttp "GET /wms/api/get_reject?start_date=2024-09-30&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 15242
+INFO 2024-11-25 13:59:44,177 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 13:59:44,197 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 3541
+INFO 2024-11-25 14:01:22,496 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:01:22,501 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:01:22,516 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:01:22,520 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:01:22,659 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:01:22,670 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:01:22,699 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:01:22,708 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:01:27,382 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-09-30&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 0
+INFO 2024-11-25 14:01:27,436 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 14:01:27,457 basehttp "GET /wms/api/get_reject?start_date=2024-09-30&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 16884
+INFO 2024-11-25 14:01:40,406 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-10-22&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 0
+INFO 2024-11-25 14:01:40,478 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 14:01:40,497 basehttp "GET /wms/api/get_reject?start_date=2024-10-22&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 2663
+INFO 2024-11-25 14:14:33,667 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:14:33,672 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:15:09,901 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:15:09,910 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:15:09,928 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:15:09,932 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:15:10,176 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:15:10,185 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:15:10,245 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:15:10,249 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:15:15,606 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-10-14&end_date=2024-10-31&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 0
+INFO 2024-11-25 14:15:15,671 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 14:15:15,696 basehttp "GET /wms/api/get_reject?start_date=2024-10-14&end_date=2024-10-31&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 8379
+INFO 2024-11-25 14:17:11,937 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:17:11,945 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:17:11,961 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:17:11,967 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:17:12,180 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:17:12,192 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:17:12,204 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:17:12,208 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:17:17,262 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 14:17:17,301 basehttp "GET /wms/api/get_reject?start_date=2024-09-30&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 16884
+INFO 2024-11-25 14:17:39,606 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 14:17:39,627 basehttp "GET /wms/api/get_reject?start_date=2024-10-22&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 2663
+INFO 2024-11-25 14:23:23,631 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:23:23,639 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:23:23,656 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:23:23,663 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:23:23,808 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:23:23,862 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:23:23,898 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:23:23,906 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:23:29,786 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 14:23:29,814 basehttp "GET /wms/api/get_reject?start_date=2024-09-30&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 16884
+INFO 2024-11-25 14:23:30,616 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 14:23:30,634 basehttp "GET /wms/api/get_reject?start_date=2024-09-30&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 16884
+INFO 2024-11-25 14:23:42,567 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-10-22&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 0
+INFO 2024-11-25 14:23:42,642 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 14:23:42,660 basehttp "GET /wms/api/get_reject?start_date=2024-10-22&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 2294
+INFO 2024-11-25 14:25:05,940 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 14:25:05,967 basehttp "GET /wms/api/get_reject?start_date=2024-10-22&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 2294
+INFO 2024-11-25 14:25:09,161 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:25:09,165 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:25:09,191 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:25:09,205 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:25:09,372 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:25:09,386 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:25:09,451 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:25:09,471 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:25:12,900 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-10-31&end_date=2024-11-29&machines[]=HS3&machines[]=HS4 HTTP/1.1" 200 0
+INFO 2024-11-25 14:25:12,966 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 14:25:13,015 basehttp "GET /wms/api/get_reject?start_date=2024-10-31&end_date=2024-11-29&machines[]=HS3&machines[]=HS4 HTTP/1.1" 200 72
+INFO 2024-11-25 14:25:21,109 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 14:25:21,124 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 3383
+INFO 2024-11-25 14:26:28,288 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:26:28,295 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:26:28,309 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:26:28,316 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:26:28,474 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:26:28,479 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:26:28,504 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:26:28,514 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:30:49,509 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-25 14:30:49,512 log Forbidden: /wms/api/check_session
+WARNING 2024-11-25 14:30:49,513 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-25 14:30:49,515 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-25 14:30:49,515 log Forbidden: /wms/api/check_session
+WARNING 2024-11-25 14:30:49,515 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-25 14:30:49,516 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-25 14:30:49,516 log Forbidden: /wms/api/check_session
+WARNING 2024-11-25 14:30:49,517 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-25 14:31:38,305 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 14:31:38,333 basehttp "GET /wms/api/get_reject?start_date=2024-09-30&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 15242
+INFO 2024-11-25 14:32:40,210 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:32:40,214 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:32:40,232 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:32:40,246 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:32:40,401 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:32:40,506 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:32:40,524 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:32:40,533 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:32:42,487 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:32:42,493 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:32:42,511 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:32:42,522 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:32:42,620 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:32:42,629 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:32:42,650 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:32:42,659 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:45:43,324 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:45:43,332 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:45:48,692 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 14:45:48,713 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 3383
+INFO 2024-11-25 14:46:50,636 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:46:50,645 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:49:20,988 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:49:21,007 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:49:21,068 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:49:21,078 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:55:31,178 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:55:31,219 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:55:31,335 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:55:31,350 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:56:40,488 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:56:40,498 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:56:40,561 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:56:40,608 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:56:40,754 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:56:40,789 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:56:40,946 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:56:40,979 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:56:41,251 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:56:41,261 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:56:41,393 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:56:41,454 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:56:46,805 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:56:46,823 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:56:46,881 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:56:46,913 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:56:47,261 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:56:47,284 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:56:47,316 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:56:47,327 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:56:47,548 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:56:47,556 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:56:47,584 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:56:47,593 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:57:03,602 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:57:03,609 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:57:03,672 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:57:03,688 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:57:03,907 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:57:03,958 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:57:04,006 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:57:04,023 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:57:04,290 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:57:04,337 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:57:04,450 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:57:04,464 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:57:10,922 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 14:57:10,947 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 3541
+INFO 2024-11-25 14:57:39,227 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:57:39,245 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:57:39,302 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:57:39,353 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:57:39,791 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:57:39,807 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:57:40,126 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:57:40,153 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:57:40,183 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:57:40,193 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:57:40,230 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:57:40,240 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:59:55,756 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:59:55,779 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:59:55,936 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 14:59:55,953 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 14:59:56,273 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:59:56,291 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:59:56,326 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:59:56,337 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:59:56,530 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:59:56,565 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 14:59:56,601 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 14:59:56,610 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:00:19,427 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:00:19,433 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:00:19,466 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:00:19,479 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:00:19,848 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:00:19,855 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:00:19,887 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:00:19,969 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:00:20,190 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:00:20,197 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:00:20,222 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:00:20,229 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:00:24,166 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:00:24,186 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:00:24,218 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:00:24,229 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:00:24,594 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:00:24,612 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:00:24,680 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:00:24,700 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:00:24,921 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:00:24,938 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:00:24,968 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:00:24,978 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:00:39,254 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:00:39,263 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:00:39,291 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:00:39,299 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:00:39,589 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:00:39,596 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:00:39,626 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:00:39,642 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:00:39,864 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:00:39,899 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:00:39,932 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:00:39,939 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:01:03,110 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:01:03,121 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:01:03,152 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:01:03,163 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:01:03,496 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:01:03,507 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:01:03,540 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:01:03,684 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:01:03,851 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:01:03,897 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:01:03,943 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:01:03,953 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:01:08,656 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:01:08,661 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:01:08,709 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:01:08,714 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:01:12,001 basehttp "OPTIONS /wms/api/get_material HTTP/1.1" 200 0
+INFO 2024-11-25 15:01:12,004 basehttp "OPTIONS /wms/api/get_material HTTP/1.1" 200 0
+INFO 2024-11-25 15:01:12,093 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 15:01:12,105 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:01:12,117 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:01:12,142 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813949
+INFO 2024-11-25 15:01:12,161 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 15:01:12,219 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813949
+INFO 2024-11-25 15:01:13,701 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:01:13,706 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:01:13,726 middleware User: Preme, Request method: GET, Request path: /wms/api/get_zca_option
+INFO 2024-11-25 15:01:13,790 basehttp "GET /wms/api/get_zca_option HTTP/1.1" 200 129123
+INFO 2024-11-25 15:01:13,813 middleware User: Preme, Request method: GET, Request path: /wms/api/get_zca_option
+INFO 2024-11-25 15:01:13,833 basehttp "GET /wms/api/get_zca_option HTTP/1.1" 200 129123
+INFO 2024-11-25 15:01:18,628 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:01:18,633 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:01:21,683 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:01:21,693 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:01:22,938 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:01:22,939 middleware User: Preme, Request method: GET, Request path: /wms/api/get_zca_option
+INFO 2024-11-25 15:01:22,955 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:01:22,961 basehttp "GET /wms/api/get_zca_option HTTP/1.1" 200 129123
+INFO 2024-11-25 15:01:23,002 middleware User: Preme, Request method: GET, Request path: /wms/api/get_zca_option
+INFO 2024-11-25 15:01:23,025 basehttp "GET /wms/api/get_zca_option HTTP/1.1" 200 129123
+INFO 2024-11-25 15:01:24,534 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:01:24,543 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:03:18,001 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:03:18,009 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:03:18,113 basehttp "OPTIONS /wms/api/get_appointments HTTP/1.1" 200 0
+INFO 2024-11-25 15:03:18,117 basehttp "OPTIONS /wms/api/demand HTTP/1.1" 200 0
+INFO 2024-11-25 15:03:18,120 basehttp "OPTIONS /wms/api/get_options HTTP/1.1" 200 0
+INFO 2024-11-25 15:03:18,121 basehttp "OPTIONS /wms/api/get_appointments HTTP/1.1" 200 0
+INFO 2024-11-25 15:03:18,122 basehttp "OPTIONS /wms/api/get_options HTTP/1.1" 200 0
+INFO 2024-11-25 15:03:18,125 basehttp "OPTIONS /wms/api/demand HTTP/1.1" 200 0
+INFO 2024-11-25 15:03:18,146 middleware User: Preme, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-25 15:03:18,153 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-11-25 15:03:18,183 middleware User: Preme, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-11-25 15:03:18,185 middleware User: Preme, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-11-25 15:03:18,188 middleware User: Preme, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-25 15:03:18,206 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-11-25 15:03:18,210 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105263
+INFO 2024-11-25 15:03:18,216 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-25 15:03:18,230 middleware User: Preme, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-11-25 15:03:18,238 middleware User: Preme, Request method: GET, Request path: /wms/api/demand
+INFO 2024-11-25 15:03:18,244 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105263
+INFO 2024-11-25 15:03:18,248 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-11-25 15:03:21,050 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:03:21,058 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:03:37,146 middleware User: Preme, Request method: GET, Request path: /wms/api/get_zca_option
+INFO 2024-11-25 15:03:37,151 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:03:37,172 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:03:37,177 basehttp "GET /wms/api/get_zca_option HTTP/1.1" 200 129123
+INFO 2024-11-25 15:03:37,198 middleware User: Preme, Request method: GET, Request path: /wms/api/get_zca_option
+INFO 2024-11-25 15:03:37,223 basehttp "GET /wms/api/get_zca_option HTTP/1.1" 200 129123
+INFO 2024-11-25 15:03:37,627 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:03:37,635 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:03:42,619 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:03:42,621 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:03:42,626 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:03:42,626 basehttp - Broken pipe from ('127.0.0.1', 57992)
+INFO 2024-11-25 15:03:42,628 basehttp - Broken pipe from ('127.0.0.1', 57989)
+INFO 2024-11-25 15:03:43,912 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-25 15:03:43,913 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-25 15:03:43,971 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:03:43,972 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:03:43,976 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:03:43,980 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:03:45,509 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-25 15:03:45,509 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-11-25 15:03:45,568 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:03:45,570 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:03:45,573 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:03:45,576 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:03:45,777 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:03:45,787 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:03:45,929 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:03:45,939 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:03:51,864 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:03:51,870 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:03:51,898 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:03:51,917 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:03:52,257 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:03:52,275 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:03:52,333 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:03:52,346 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:04:07,786 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-25 15:04:07,788 log Forbidden: /wms/api/check_session
+WARNING 2024-11-25 15:04:07,788 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-25 15:04:07,790 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-25 15:04:07,791 log Forbidden: /wms/api/check_session
+WARNING 2024-11-25 15:04:07,791 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-25 15:04:07,791 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-25 15:04:07,793 log Forbidden: /wms/api/check_session
+WARNING 2024-11-25 15:04:07,794 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-25 15:04:14,801 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:04:14,807 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:04:14,822 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:04:14,828 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:04:15,005 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:04:15,017 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:04:15,039 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:04:15,056 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:04:21,903 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:04:21,911 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:12:51,366 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:12:51,386 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:13:08,827 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:13:08,839 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:13:08,873 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:13:08,886 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:13:13,568 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:13:13,593 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:13:13,762 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:13:13,776 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:14:06,983 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 15:14:07,005 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 3541
+INFO 2024-11-25 15:14:12,855 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:14:12,875 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:14:12,921 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:14:12,945 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:14:58,607 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 15:14:58,654 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 3541
+INFO 2024-11-25 15:15:03,547 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:15:03,559 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:15:03,577 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:15:03,586 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:15:35,600 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:15:35,607 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:15:35,626 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:15:35,633 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:15:35,822 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:15:35,836 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:15:35,921 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:15:35,930 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:15:40,371 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 15:15:40,395 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 3541
+INFO 2024-11-25 15:19:14,861 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:19:14,878 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:23:18,047 basehttp "OPTIONS /wms/api/get_stockestimate HTTP/1.1" 200 0
+INFO 2024-11-25 15:23:18,048 basehttp "OPTIONS /wms/api/get_stockestimate HTTP/1.1" 200 0
+INFO 2024-11-25 15:23:18,064 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:23:18,072 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:23:18,092 middleware User: Preme, Request method: GET, Request path: /wms/api/get_stockestimate
+INFO 2024-11-25 15:23:20,243 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:23:20,251 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:23:23,721 basehttp "GET /wms/api/get_stockestimate HTTP/1.1" 200 6626
+INFO 2024-11-25 15:23:23,733 middleware User: Preme, Request method: GET, Request path: /wms/api/get_stockestimate
+INFO 2024-11-25 15:23:25,214 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-31&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 0
+INFO 2024-11-25 15:23:25,319 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 15:23:25,347 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-31&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 3383
+INFO 2024-11-25 15:23:30,611 basehttp "GET /wms/api/get_stockestimate HTTP/1.1" 200 6623
+INFO 2024-11-25 15:24:01,538 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:24:01,543 middleware User: Preme, Request method: GET, Request path: /wms/api/get_zca_option
+INFO 2024-11-25 15:24:01,545 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:24:01,571 basehttp "GET /wms/api/get_zca_option HTTP/1.1" 200 129123
+INFO 2024-11-25 15:24:01,587 middleware User: Preme, Request method: GET, Request path: /wms/api/get_zca_option
+INFO 2024-11-25 15:24:01,608 basehttp "GET /wms/api/get_zca_option HTTP/1.1" 200 129123
+INFO 2024-11-25 15:24:13,103 middleware User: Preme, Request method: GET, Request path: /wms/api/get_prod_timeserie
+INFO 2024-11-25 15:24:13,188 basehttp "GET /wms/api/get_prod_timeserie?start_date=2024-10-31&end_date=2024-11-28&zca[]=ZCA000B0100016 HTTP/1.1" 200 74
+INFO 2024-11-25 15:24:17,229 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:24:17,236 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:24:18,164 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:24:18,171 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:24:24,672 basehttp "OPTIONS /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 0
+INFO 2024-11-25 15:24:24,743 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 15:24:24,767 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6 HTTP/1.1" 200 3541
+INFO 2024-11-25 15:25:18,703 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:25:18,708 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:25:19,525 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:25:19,533 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:25:19,835 middleware User: Preme, Request method: GET, Request path: /wms/api/get_stockestimate
+INFO 2024-11-25 15:25:19,865 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:25:19,871 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:25:20,318 middleware User: Preme, Request method: GET, Request path: /wms/api/get_stock_location
+INFO 2024-11-25 15:25:21,662 basehttp "GET /wms/api/get_stock_location HTTP/1.1" 200 380714
+INFO 2024-11-25 15:25:21,694 middleware User: Preme, Request method: GET, Request path: /wms/api/get_stock_location
+INFO 2024-11-25 15:25:22,989 basehttp "GET /wms/api/get_stock_location HTTP/1.1" 200 380714
+INFO 2024-11-25 15:25:26,402 basehttp "GET /wms/api/get_stockestimate HTTP/1.1" 200 6626
+INFO 2024-11-25 15:25:26,416 middleware User: Preme, Request method: GET, Request path: /wms/api/get_stockestimate
+INFO 2024-11-25 15:25:31,850 basehttp "GET /wms/api/get_stockestimate HTTP/1.1" 200 6626
+INFO 2024-11-25 15:29:02,557 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:29:02,560 middleware User: Preme, Request method: GET, Request path: /wms/api/get_zca_option
+INFO 2024-11-25 15:29:02,567 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:29:02,592 basehttp "GET /wms/api/get_zca_option HTTP/1.1" 200 129123
+INFO 2024-11-25 15:29:02,609 middleware User: Preme, Request method: GET, Request path: /wms/api/get_zca_option
+INFO 2024-11-25 15:29:02,631 basehttp "GET /wms/api/get_zca_option HTTP/1.1" 200 129123
+INFO 2024-11-25 15:29:02,896 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:29:02,906 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:29:06,631 middleware User: Preme, Request method: GET, Request path: /wms/api/get_operator_pef
+INFO 2024-11-25 15:29:06,668 basehttp "GET /wms/api/get_operator_pef?start_date=2024-10-31&end_date=2024-11-29&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 26
+INFO 2024-11-25 15:29:07,668 middleware User: Preme, Request method: GET, Request path: /wms/api/get_operator_pef
+INFO 2024-11-25 15:29:07,686 basehttp "GET /wms/api/get_operator_pef?start_date=2024-10-31&end_date=2024-11-29&machines[]=HS3&machines[]=HS4&machines[]=HS5 HTTP/1.1" 200 26
+INFO 2024-11-25 15:29:12,763 middleware User: Preme, Request method: GET, Request path: /wms/api/get_operator_pef
+INFO 2024-11-25 15:29:12,798 basehttp "GET /wms/api/get_operator_pef?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7 HTTP/1.1" 200 10009
+INFO 2024-11-25 15:32:20,921 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/urls.py changed, reloading.
+INFO 2024-11-25 15:32:21,860 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 15:32:28,517 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:32:28,530 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:32:37,303 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:32:37,308 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:32:37,327 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:32:37,332 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:32:37,501 basehttp "OPTIONS /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 0
+INFO 2024-11-25 15:32:37,506 basehttp "OPTIONS /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 0
+INFO 2024-11-25 15:32:37,526 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:32:37,535 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:32:37,553 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:32:37,562 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:32:39,412 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:32:39,417 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:32:41,251 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:32:41,258 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:32:43,036 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:32:43,062 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 15:32:43,078 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:32:43,109 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813949
+INFO 2024-11-25 15:32:43,148 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 15:32:43,198 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813949
+INFO 2024-11-25 15:32:44,143 basehttp "OPTIONS /wms/api/get_editzcawip HTTP/1.1" 200 0
+INFO 2024-11-25 15:32:44,214 middleware User: Preme, Request method: GET, Request path: /wms/api/get_editzcawip
+INFO 2024-11-25 15:32:44,455 basehttp "GET /wms/api/get_editzcawip HTTP/1.1" 200 2138348
+INFO 2024-11-25 15:32:44,506 middleware User: Preme, Request method: GET, Request path: /wms/api/get_editzcawip
+INFO 2024-11-25 15:32:44,785 basehttp "GET /wms/api/get_editzcawip HTTP/1.1" 200 2138348
+INFO 2024-11-25 15:32:44,852 basehttp "OPTIONS /wms/api/get_editzcafg HTTP/1.1" 200 0
+INFO 2024-11-25 15:32:44,875 middleware User: Preme, Request method: GET, Request path: /wms/api/get_editzcafg
+INFO 2024-11-25 15:32:45,007 basehttp "GET /wms/api/get_editzcafg HTTP/1.1" 200 714346
+INFO 2024-11-25 15:32:45,029 middleware User: Preme, Request method: GET, Request path: /wms/api/get_editzcafg
+INFO 2024-11-25 15:32:45,128 basehttp "GET /wms/api/get_editzcafg HTTP/1.1" 200 714346
+INFO 2024-11-25 15:32:45,598 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 15:32:45,640 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813949
+INFO 2024-11-25 15:32:45,694 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 15:32:45,730 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813949
+INFO 2024-11-25 15:33:07,525 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:33:07,531 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:33:08,429 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 15:33:08,494 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813949
+INFO 2024-11-25 15:33:08,549 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 15:33:08,582 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813949
+INFO 2024-11-25 15:33:09,827 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:33:09,838 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:33:12,535 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:33:12,543 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:33:22,897 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/PlannerViews.py changed, reloading.
+INFO 2024-11-25 15:33:23,496 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 15:34:06,896 autoreload /Users/thanyapatjul/Desktop/SCM/Bifrost/scg_wms/wms/models.py changed, reloading.
+INFO 2024-11-25 15:34:07,575 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 15:50:12,510 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 15:50:12,521 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 15:50:15,050 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 15:50:15,093 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813949
+INFO 2024-11-25 15:50:15,145 middleware User: Preme, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-11-25 15:50:15,197 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813949
+INFO 2024-11-25 15:50:23,752 basehttp "OPTIONS /wms/api/post_material HTTP/1.1" 200 0
+INFO 2024-11-25 15:50:23,817 middleware User: Preme, Request method: POST, Request path: /wms/api/post_material
+INFO 2024-11-25 15:50:23,893 basehttp "POST /wms/api/post_material HTTP/1.1" 200 58
+INFO 2024-11-25 15:50:27,721 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:50:27,740 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:50:27,826 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:50:27,839 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:50:39,386 middleware User: Preme, Request method: GET, Request path: /wms/api/post_material
+WARNING 2024-11-25 15:50:39,420 log Method Not Allowed: /wms/api/post_material
+WARNING 2024-11-25 15:50:39,421 basehttp "GET /wms/api/post_material HTTP/1.1" 405 11151
+INFO 2024-11-25 15:50:39,473 middleware User: Preme, Request method: GET, Request path: /static/rest_framework/css/bootstrap.min.css
+WARNING 2024-11-25 15:50:39,509 log Not Found: /static/rest_framework/css/bootstrap.min.css
+WARNING 2024-11-25 15:50:39,510 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 404 179
+INFO 2024-11-25 15:50:39,518 middleware User: Preme, Request method: GET, Request path: /static/rest_framework/css/bootstrap-tweaks.css
+INFO 2024-11-25 15:50:39,521 middleware User: Preme, Request method: GET, Request path: /static/rest_framework/css/prettify.css
+INFO 2024-11-25 15:50:39,523 middleware User: Preme, Request method: GET, Request path: /static/rest_framework/css/default.css
+WARNING 2024-11-25 15:50:39,526 log Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+WARNING 2024-11-25 15:50:39,527 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 404 179
+WARNING 2024-11-25 15:50:39,530 log Not Found: /static/rest_framework/css/prettify.css
+WARNING 2024-11-25 15:50:39,531 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 404 179
+INFO 2024-11-25 15:50:39,534 middleware User: Preme, Request method: GET, Request path: /static/rest_framework/js/csrf.js
+WARNING 2024-11-25 15:50:39,536 log Not Found: /static/rest_framework/css/default.css
+INFO 2024-11-25 15:50:39,537 middleware User: Preme, Request method: GET, Request path: /static/rest_framework/js/jquery-3.7.1.min.js
+WARNING 2024-11-25 15:50:39,537 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 404 179
+INFO 2024-11-25 15:50:39,541 middleware User: Preme, Request method: GET, Request path: /static/rest_framework/js/ajax-form.js
+WARNING 2024-11-25 15:50:39,546 log Not Found: /static/rest_framework/js/csrf.js
+WARNING 2024-11-25 15:50:39,546 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 404 179
+WARNING 2024-11-25 15:50:39,550 log Not Found: /static/rest_framework/js/jquery-3.7.1.min.js
+INFO 2024-11-25 15:50:39,550 middleware User: Preme, Request method: GET, Request path: /static/rest_framework/js/bootstrap.min.js
+WARNING 2024-11-25 15:50:39,551 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 404 179
+WARNING 2024-11-25 15:50:39,556 log Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2024-11-25 15:50:39,557 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 404 179
+WARNING 2024-11-25 15:50:39,561 log Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2024-11-25 15:50:39,561 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 404 179
+INFO 2024-11-25 15:50:39,565 middleware User: Preme, Request method: GET, Request path: /static/rest_framework/js/prettify-min.js
+INFO 2024-11-25 15:50:39,570 middleware User: Preme, Request method: GET, Request path: /static/rest_framework/js/default.js
+INFO 2024-11-25 15:50:39,572 middleware User: Preme, Request method: GET, Request path: /static/rest_framework/js/load-ajax-form.js
+WARNING 2024-11-25 15:50:39,574 log Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2024-11-25 15:50:39,575 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 404 179
+WARNING 2024-11-25 15:50:39,578 log Not Found: /static/rest_framework/js/default.js
+WARNING 2024-11-25 15:50:39,578 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 404 179
+WARNING 2024-11-25 15:50:39,580 log Not Found: /static/rest_framework/js/load-ajax-form.js
+WARNING 2024-11-25 15:50:39,580 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 404 179
+INFO 2024-11-25 15:50:39,599 middleware User: Preme, Request method: GET, Request path: /favicon.ico
+WARNING 2024-11-25 15:50:39,604 log Not Found: /favicon.ico
+WARNING 2024-11-25 15:50:39,605 basehttp "GET /favicon.ico HTTP/1.1" 404 179
+INFO 2024-11-25 15:57:53,254 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:57:53,260 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:57:53,275 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:57:53,281 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:58:39,702 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:58:39,719 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:58:39,773 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:58:39,785 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:58:46,618 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:58:46,626 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 15:58:46,638 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 15:58:46,644 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 16:11:26,174 autoreload Watching for file changes with StatReloader
+INFO 2024-11-25 16:11:50,192 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-25 16:11:50,195 log Forbidden: /wms/api/check_session
+WARNING 2024-11-25 16:11:50,195 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-25 16:11:50,198 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-25 16:11:50,199 log Forbidden: /wms/api/check_session
+WARNING 2024-11-25 16:11:50,200 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-25 16:11:50,201 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-11-25 16:11:50,202 log Forbidden: /wms/api/check_session
+WARNING 2024-11-25 16:11:50,203 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-11-25 16:14:01,158 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 16:14:01,165 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 16:14:01,186 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 16:14:01,193 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 16:14:01,354 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 16:14:01,363 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 16:14:01,386 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 16:14:01,392 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 16:14:08,250 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 16:14:08,260 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 16:14:08,272 middleware User: Preme, Request method: GET, Request path: /wms/api/get_stockestimate
+INFO 2024-11-25 16:14:09,122 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 16:14:09,134 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 16:14:10,078 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 16:14:10,093 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 16:14:13,924 basehttp "GET /wms/api/get_stockestimate HTTP/1.1" 200 6621
+INFO 2024-11-25 16:14:13,940 middleware User: Preme, Request method: GET, Request path: /wms/api/get_stockestimate
+INFO 2024-11-25 16:14:16,342 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 16:14:16,386 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS4&machines[]=HS3&machines[]=HS5&machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=HS9&machines[]=CT1&machines[]=CT2&machines[]=CT3&machines[]=CT4&machines[]=XY1 HTTP/1.1" 200 5474
+INFO 2024-11-25 16:14:19,858 basehttp "GET /wms/api/get_stockestimate HTTP/1.1" 200 6626
+INFO 2024-11-25 16:14:24,446 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 16:14:24,476 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS4&machines[]=HS3&machines[]=HS5&machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=HS9&machines[]=CT1&machines[]=CT2&machines[]=CT3&machines[]=CT4&machines[]=XY1&machines[]=CM6&machines[]=CM5&machines[]=CM7&machines[]=CM8&machines[]=AS1&machines[]=PK1&machines[]=PK2&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=DET&machines[]=MS1&machines[]=OC1&machines[]=OC2&machines[]=DP1&machines[]=DP2 HTTP/1.1" 200 11297
+INFO 2024-11-25 16:15:48,636 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 16:15:48,673 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS4&machines[]=HS3&machines[]=HS5&machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=HS9&machines[]=CT1&machines[]=CT2&machines[]=CT3&machines[]=CT4&machines[]=XY1&machines[]=CM6&machines[]=CM5&machines[]=CM7&machines[]=CM8&machines[]=AS1&machines[]=PK1&machines[]=PK2&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=DET&machines[]=MS1&machines[]=OC1&machines[]=OC2&machines[]=DP1&machines[]=DP2 HTTP/1.1" 200 11297
+INFO 2024-11-25 16:18:06,680 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 16:18:06,699 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS4&machines[]=HS3&machines[]=HS5&machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=HS9&machines[]=CT1&machines[]=CT2&machines[]=CT3&machines[]=CT4&machines[]=XY1&machines[]=CM6&machines[]=CM5&machines[]=CM7&machines[]=CM8&machines[]=AS1&machines[]=PK1&machines[]=PK2&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=DET&machines[]=MS1&machines[]=OC1&machines[]=OC2&machines[]=DP1&machines[]=DP2 HTTP/1.1" 200 11297
+INFO 2024-11-25 16:18:12,067 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 16:18:12,071 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 16:18:12,090 middleware User: Preme, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-11-25 16:18:12,096 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-11-25 16:18:12,274 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 16:18:12,286 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 16:18:12,367 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 16:18:12,381 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 16:18:20,270 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 16:18:20,319 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=HS9 HTTP/1.1" 200 5315
+INFO 2024-11-25 16:20:08,120 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 16:20:08,174 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=HS9&machines[]=CT1&machines[]=CT2&machines[]=CT3&machines[]=CT4&machines[]=XY1&machines[]=CM5&machines[]=CM6&machines[]=CM7&machines[]=CM8&machines[]=AS1&machines[]=PK1&machines[]=PK2&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=DET&machines[]=MS1&machines[]=OC1&machines[]=OC2&machines[]=DP1&machines[]=DP2&machines[]=OS1&machines[]=PL1&machines[]=RT1&machines[]=RT2&machines[]=SD1&machines[]=SEG1 HTTP/1.1" 200 13178
+INFO 2024-11-25 16:20:09,790 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 16:20:09,810 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30&machines[]=HS3&machines[]=HS4&machines[]=HS5&machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=HS9&machines[]=CT1&machines[]=CT2&machines[]=CT3&machines[]=CT4&machines[]=XY1&machines[]=CM5&machines[]=CM6&machines[]=CM7&machines[]=CM8&machines[]=AS1&machines[]=PK1&machines[]=PK2&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=DET&machines[]=MS1&machines[]=OC1&machines[]=OC2&machines[]=DP1&machines[]=DP2&machines[]=OS1&machines[]=PL1&machines[]=RT1&machines[]=RT2&machines[]=SD1&machines[]=SEG1 HTTP/1.1" 200 13178
+INFO 2024-11-25 16:20:46,191 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 16:20:46,199 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 72
+INFO 2024-11-25 16:20:46,807 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 16:20:46,816 basehttp "GET /wms/api/get_reject?start_date=2024-10-21&end_date=2024-10-30 HTTP/1.1" 200 72
+INFO 2024-11-25 16:26:45,749 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 16:26:45,800 basehttp "GET /wms/api/get_reject?start_date=2024-09-30&end_date=2024-10-30&machines[]=HS4&machines[]=HS3&machines[]=HS5&machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=HS9&machines[]=CT1&machines[]=CT2&machines[]=CT3 HTTP/1.1" 200 24061
+INFO 2024-11-25 16:26:48,199 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 16:26:48,255 basehttp "GET /wms/api/get_reject?start_date=2024-09-30&end_date=2024-10-30&machines[]=HS4&machines[]=HS3&machines[]=HS5&machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=HS9&machines[]=CT1&machines[]=CT2&machines[]=CT3 HTTP/1.1" 200 24061
+INFO 2024-11-25 16:27:03,498 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 16:27:03,525 basehttp "GET /wms/api/get_reject?start_date=2024-09-30&end_date=2024-10-30&machines[]=HS4&machines[]=HS3&machines[]=HS5&machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=HS9 HTTP/1.1" 200 23903
+INFO 2024-11-25 16:27:49,893 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 16:27:49,904 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 16:27:49,922 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 16:27:49,930 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 16:28:01,228 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 16:28:01,235 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 16:28:01,256 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 16:28:01,262 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 16:29:17,146 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 16:29:17,162 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 16:29:17,187 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 16:29:17,212 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 16:29:42,949 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 16:29:42,963 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 16:29:42,989 middleware User: Preme, Request method: GET, Request path: /wms/api/getweek
+INFO 2024-11-25 16:29:42,998 basehttp "GET /wms/api/getweek?date=2024-11-25 HTTP/1.1" 200 33
+INFO 2024-11-25 16:31:15,647 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 16:31:15,675 basehttp "GET /wms/api/get_reject?start_date=2024-09-30&end_date=2024-10-30&machines[]=HS4&machines[]=HS3&machines[]=HS5&machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=HS9 HTTP/1.1" 200 23903
+INFO 2024-11-25 16:31:15,690 middleware User: Preme, Request method: GET, Request path: /wms/api/get_reject
+INFO 2024-11-25 16:31:15,710 basehttp "GET /wms/api/get_reject?start_date=2024-09-30&end_date=2024-10-30&machines[]=HS4&machines[]=HS3&machines[]=HS5&machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=HS9 HTTP/1.1" 200 23903

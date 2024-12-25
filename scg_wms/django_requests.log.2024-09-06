@@ -1,0 +1,967 @@
+INFO 2024-09-06 10:48:52,819 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-09-06 10:48:52,824 log Forbidden: /wms/api/check_session
+WARNING 2024-09-06 10:48:52,824 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-09-06 10:48:52,827 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-09-06 10:48:52,827 log Forbidden: /wms/api/check_session
+WARNING 2024-09-06 10:48:52,828 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-09-06 10:48:52,832 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-09-06 10:48:52,833 log Forbidden: /wms/api/check_session
+WARNING 2024-09-06 10:48:52,833 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-09-06 10:50:08,896 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-09-06 10:50:08,897 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-09-06 10:50:08,898 log Forbidden: /wms/api/check_session
+WARNING 2024-09-06 10:50:08,898 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-09-06 10:50:08,899 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-09-06 10:50:08,901 log Forbidden: /wms/api/check_session
+WARNING 2024-09-06 10:50:08,902 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-09-06 10:50:10,910 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-09-06 10:50:10,911 log Forbidden: /wms/api/check_session
+WARNING 2024-09-06 10:50:10,912 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-09-06 10:50:10,939 basehttp "OPTIONS /wms/api/demand HTTP/1.1" 200 0
+INFO 2024-09-06 10:50:10,941 middleware User: Anonymous, Request method: GET, Request path: /wms/api/demand
+WARNING 2024-09-06 10:50:10,941 log Forbidden: /wms/api/demand
+INFO 2024-09-06 10:50:10,941 basehttp "OPTIONS /wms/api/demand HTTP/1.1" 200 0
+WARNING 2024-09-06 10:50:10,942 basehttp "GET /wms/api/demand HTTP/1.1" 403 58
+INFO 2024-09-06 10:50:10,942 middleware User: Anonymous, Request method: GET, Request path: /wms/api/demand
+WARNING 2024-09-06 10:50:10,943 log Forbidden: /wms/api/demand
+WARNING 2024-09-06 10:50:10,943 basehttp "GET /wms/api/demand HTTP/1.1" 403 58
+INFO 2024-09-06 10:50:11,970 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-09-06 10:50:11,973 log Forbidden: /wms/api/check_session
+WARNING 2024-09-06 10:50:11,973 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-09-06 10:50:11,998 basehttp "OPTIONS /wms/api/get_pis_csv HTTP/1.1" 200 0
+INFO 2024-09-06 10:50:11,999 basehttp "OPTIONS /wms/api/get_pis_csv HTTP/1.1" 200 0
+INFO 2024-09-06 10:50:12,001 middleware User: Anonymous, Request method: GET, Request path: /wms/api/get_pis_csv
+WARNING 2024-09-06 10:50:12,001 log Forbidden: /wms/api/get_pis_csv
+WARNING 2024-09-06 10:50:12,002 basehttp "GET /wms/api/get_pis_csv HTTP/1.1" 403 58
+INFO 2024-09-06 10:50:12,003 middleware User: Anonymous, Request method: GET, Request path: /wms/api/get_pis_csv
+WARNING 2024-09-06 10:50:12,004 log Forbidden: /wms/api/get_pis_csv
+WARNING 2024-09-06 10:50:12,004 basehttp "GET /wms/api/get_pis_csv HTTP/1.1" 403 58
+INFO 2024-09-06 10:50:30,266 middleware User: Anonymous, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 10:50:30,268 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-09-06 10:50:30,269 log Forbidden: /wms/api/demand
+WARNING 2024-09-06 10:50:30,269 log Forbidden: /wms/api/check_session
+WARNING 2024-09-06 10:50:30,270 basehttp "GET /wms/api/demand HTTP/1.1" 403 58
+WARNING 2024-09-06 10:50:30,270 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-09-06 10:50:30,273 middleware User: Anonymous, Request method: GET, Request path: /wms/api/demand
+WARNING 2024-09-06 10:50:30,275 log Forbidden: /wms/api/demand
+WARNING 2024-09-06 10:50:30,276 basehttp "GET /wms/api/demand HTTP/1.1" 403 58
+INFO 2024-09-06 10:50:31,118 middleware User: Anonymous, Request method: GET, Request path: /wms/api/check_session
+WARNING 2024-09-06 10:50:31,119 log Forbidden: /wms/api/check_session
+WARNING 2024-09-06 10:50:31,120 basehttp "GET /wms/api/check_session HTTP/1.1" 403 58
+INFO 2024-09-06 10:50:31,444 middleware User: Anonymous, Request method: GET, Request path: /wms/api/demand
+WARNING 2024-09-06 10:50:31,445 log Forbidden: /wms/api/demand
+INFO 2024-09-06 10:50:31,445 basehttp "OPTIONS /wms/api/get_appointments HTTP/1.1" 200 0
+INFO 2024-09-06 10:50:31,447 basehttp "OPTIONS /wms/api/get_appointments HTTP/1.1" 200 0
+INFO 2024-09-06 10:50:31,447 basehttp "OPTIONS /wms/api/get_options HTTP/1.1" 200 0
+INFO 2024-09-06 10:50:31,447 basehttp "OPTIONS /wms/api/get_options HTTP/1.1" 200 0
+WARNING 2024-09-06 10:50:31,447 basehttp "GET /wms/api/demand HTTP/1.1" 403 58
+INFO 2024-09-06 10:50:31,449 middleware User: Anonymous, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 10:50:31,449 middleware User: Anonymous, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 10:50:31,450 middleware User: Anonymous, Request method: GET, Request path: /wms/api/demand
+WARNING 2024-09-06 10:50:31,450 log Forbidden: /wms/api/get_appointments
+WARNING 2024-09-06 10:50:31,452 log Forbidden: /wms/api/get_options
+WARNING 2024-09-06 10:50:31,453 log Forbidden: /wms/api/demand
+WARNING 2024-09-06 10:50:31,454 basehttp "GET /wms/api/get_appointments HTTP/1.1" 403 58
+WARNING 2024-09-06 10:50:31,454 basehttp "GET /wms/api/get_options HTTP/1.1" 403 58
+WARNING 2024-09-06 10:50:31,455 basehttp "GET /wms/api/demand HTTP/1.1" 403 58
+INFO 2024-09-06 10:50:31,456 middleware User: Anonymous, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 10:50:31,460 middleware User: Anonymous, Request method: GET, Request path: /wms/api/get_options
+WARNING 2024-09-06 10:50:31,465 log Forbidden: /wms/api/get_appointments
+WARNING 2024-09-06 10:50:31,467 log Forbidden: /wms/api/get_options
+WARNING 2024-09-06 10:50:31,468 basehttp "GET /wms/api/get_appointments HTTP/1.1" 403 58
+WARNING 2024-09-06 10:50:31,468 basehttp "GET /wms/api/get_options HTTP/1.1" 403 58
+INFO 2024-09-06 10:50:43,872 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 10:51:00,079 basehttp "OPTIONS /wms/api/login HTTP/1.1" 200 0
+INFO 2024-09-06 10:51:00,081 middleware User: Anonymous, Request method: POST, Request path: /wms/api/login
+INFO 2024-09-06 10:51:00,396 basehttp "POST /wms/api/login HTTP/1.1" 200 60
+INFO 2024-09-06 10:51:04,532 middleware User: Anonymous, Request method: POST, Request path: /wms/api/login
+INFO 2024-09-06 10:51:04,874 basehttp "POST /wms/api/login HTTP/1.1" 200 93
+INFO 2024-09-06 10:51:04,900 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 10:51:04,906 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 10:51:04,918 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 10:51:04,924 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 10:51:07,492 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 10:51:07,498 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 10:51:07,623 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 10:51:07,635 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 10:51:07,654 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 10:51:07,655 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 10:51:07,663 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 10:51:07,668 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 10:51:07,671 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 10:51:07,676 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 10:51:07,687 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 10:51:07,690 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 10:51:07,701 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 10:51:07,705 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 10:51:09,437 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 10:51:09,442 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 10:51:09,451 middleware User: jeng, Request method: GET, Request path: /wms/api/get_pis_csv
+INFO 2024-09-06 10:51:09,550 basehttp "GET /wms/api/get_pis_csv HTTP/1.1" 200 461018
+INFO 2024-09-06 10:51:09,573 middleware User: jeng, Request method: GET, Request path: /wms/api/get_pis_csv
+INFO 2024-09-06 10:51:09,694 basehttp "GET /wms/api/get_pis_csv HTTP/1.1" 200 461018
+INFO 2024-09-06 10:58:08,735 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 10:58:08,744 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 10:58:08,752 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 10:58:08,760 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 10:58:08,776 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 10:58:08,783 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 10:58:09,430 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 10:58:09,431 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 10:58:09,432 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 10:58:09,441 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 10:58:09,443 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 10:58:09,446 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 10:58:09,449 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 10:58:09,454 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 10:58:09,469 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 10:58:09,471 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 10:58:09,474 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 10:58:09,480 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 10:58:09,485 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 10:58:09,488 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 10:58:11,080 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T03:58:09.347Z&end_date=2024-09-07T03:58:09.347Z&planid=1 HTTP/1.1" 200 0
+INFO 2024-09-06 10:58:11,134 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 10:58:11,180 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T03:58:09.347Z&end_date=2024-09-07T03:58:09.347Z&planid=1 HTTP/1.1" 200 4021
+INFO 2024-09-06 10:58:11,257 basehttp "OPTIONS /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 0
+INFO 2024-09-06 10:58:11,316 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 10:58:11,327 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 10:58:17,233 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 10:58:17,246 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 10:59:32,168 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 10:59:32,179 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 10:59:39,780 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 10:59:39,787 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 10:59:39,803 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 10:59:39,810 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 10:59:40,126 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 10:59:40,128 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 10:59:40,134 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 10:59:40,139 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 10:59:40,160 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 10:59:40,171 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 10:59:40,188 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 10:59:40,198 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 10:59:40,210 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 10:59:40,216 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 10:59:40,217 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 10:59:40,238 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 10:59:41,633 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T03:59:40.005Z&end_date=2024-09-07T03:59:40.005Z&planid=1 HTTP/1.1" 200 0
+INFO 2024-09-06 10:59:41,686 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 10:59:41,729 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T03:59:40.005Z&end_date=2024-09-07T03:59:40.005Z&planid=1 HTTP/1.1" 200 4021
+INFO 2024-09-06 10:59:41,812 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 10:59:41,826 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:00:21,180 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:00:21,191 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:00:47,359 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:00:47,368 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:00:47,383 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:00:47,388 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:00:47,667 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:00:47,678 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:00:47,705 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:00:47,707 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:00:47,710 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:00:47,717 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:00:47,722 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:00:47,726 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:00:47,740 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:00:47,744 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:00:47,752 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:00:47,756 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:00:56,743 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T04:00:47.582Z&end_date=2024-09-07T04:00:47.582Z&planid=1 HTTP/1.1" 200 0
+INFO 2024-09-06 11:00:56,821 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 11:00:56,868 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T04:00:47.582Z&end_date=2024-09-07T04:00:47.582Z&planid=1 HTTP/1.1" 200 4021
+INFO 2024-09-06 11:00:57,039 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:00:57,055 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:03:15,119 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:03:15,129 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:03:34,347 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:03:34,354 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:03:34,371 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:03:34,380 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:03:34,853 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:03:34,862 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:03:34,895 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:03:34,900 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:03:34,904 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:03:34,923 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:03:34,927 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:03:34,930 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:03:34,950 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:03:34,955 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:03:34,968 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:03:34,974 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:03:44,172 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:03:44,179 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:03:44,216 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:03:44,230 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:03:44,675 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:03:44,685 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:03:44,709 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:03:44,714 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:03:44,715 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:03:44,718 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:03:44,731 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:03:44,735 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:03:44,751 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:03:44,754 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:03:44,764 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:03:44,768 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:04:01,807 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:04:01,817 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:04:01,840 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:04:01,849 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:04:01,906 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:04:01,921 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:04:01,951 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:04:01,960 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:04:01,962 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:04:01,969 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:04:01,989 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:04:01,995 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:04:02,015 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:04:02,024 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:04:02,041 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:04:02,049 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:04:42,058 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:04:42,066 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:04:42,089 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:04:42,099 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:04:42,145 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:04:42,158 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:04:42,189 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:04:42,191 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:04:42,193 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:04:42,209 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:04:42,216 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:04:42,223 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:04:42,242 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:04:42,245 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:04:42,256 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:04:42,281 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:04:48,312 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:04:48,327 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:04:48,366 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:04:48,376 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:04:48,888 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:04:48,903 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:04:48,989 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:04:48,991 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:04:48,996 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:04:49,010 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:04:49,018 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:04:49,025 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:04:49,046 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:04:49,055 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:04:49,072 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:04:49,079 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:04:51,601 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T04:04:48.801Z&end_date=2024-09-07T04:04:48.801Z&planid=1 HTTP/1.1" 200 0
+INFO 2024-09-06 11:04:51,653 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 11:04:51,703 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T04:04:48.801Z&end_date=2024-09-07T04:04:48.801Z&planid=1 HTTP/1.1" 200 4021
+INFO 2024-09-06 11:04:51,802 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:04:51,815 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:05:01,433 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:05:01,443 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:05:52,613 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:05:52,627 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:12:17,130 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:12:17,141 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:12:29,088 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:12:29,098 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:13:11,105 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:13:11,114 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:13:24,137 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:13:24,147 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:13:29,177 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:13:29,190 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:13:33,192 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:13:33,199 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:13:33,216 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:13:33,223 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:13:33,480 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:13:33,490 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:13:33,509 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:13:33,513 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:13:33,516 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:13:33,519 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:13:33,531 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:13:33,540 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:13:33,559 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:13:33,564 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:13:33,574 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:13:33,578 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:13:35,213 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:13:33.418Z&end_date=2024-09-07T04:13:33.418Z&planid=1 HTTP/1.1" 200 0
+INFO 2024-09-06 11:13:35,269 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 11:13:35,318 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:13:33.418Z&end_date=2024-09-07T04:13:33.418Z&planid=1 HTTP/1.1" 200 4021
+INFO 2024-09-06 11:13:35,465 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:13:35,482 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:15:14,507 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:15:14,525 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:15:23,869 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:15:23,880 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:18:56,159 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:18:56,167 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:19:07,330 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:19:07,341 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:19:23,937 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:19:23,949 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:22:07,167 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:22:07,176 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:22:07,194 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:22:07,201 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:22:07,447 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:22:07,456 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:22:07,479 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:22:07,480 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:22:07,481 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:22:07,491 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:22:07,494 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:22:07,498 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:22:07,513 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:22:07,517 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:22:07,524 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:22:07,528 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:22:26,129 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:22:26,137 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:22:36,733 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T04:22:07.389Z&end_date=2024-09-07T04:22:07.389Z&planid=1 HTTP/1.1" 200 0
+INFO 2024-09-06 11:22:36,790 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 11:22:36,840 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T04:22:07.389Z&end_date=2024-09-07T04:22:07.389Z&planid=1 HTTP/1.1" 200 4021
+INFO 2024-09-06 11:22:37,097 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:22:37,116 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:23:23,300 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:23:23,309 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 9741
+INFO 2024-09-06 11:23:47,914 basehttp "OPTIONS /wms/api/post_machplan HTTP/1.1" 200 0
+INFO 2024-09-06 11:23:47,967 middleware User: jeng, Request method: POST, Request path: /wms/api/post_machplan
+WARNING 2024-09-06 11:23:47,976 log Bad Request: /wms/api/post_machplan
+WARNING 2024-09-06 11:23:47,976 basehttp "POST /wms/api/post_machplan HTTP/1.1" 400 51
+INFO 2024-09-06 11:23:50,759 basehttp "OPTIONS /wms/api/delete_appointment HTTP/1.1" 200 0
+INFO 2024-09-06 11:23:50,829 middleware User: jeng, Request method: POST, Request path: /wms/api/delete_appointment
+WARNING 2024-09-06 11:23:50,836 log Bad Request: /wms/api/delete_appointment
+WARNING 2024-09-06 11:23:50,836 basehttp "POST /wms/api/delete_appointment HTTP/1.1" 400 54
+INFO 2024-09-06 11:23:59,894 middleware User: jeng, Request method: POST, Request path: /wms/api/post_machplan
+INFO 2024-09-06 11:23:59,920 basehttp "POST /wms/api/post_machplan HTTP/1.1" 200 40
+INFO 2024-09-06 11:24:00,084 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 11:24:00,124 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T04:22:07.389Z&end_date=2024-09-07T04:22:07.389Z&planid=1 HTTP/1.1" 200 4021
+INFO 2024-09-06 11:24:00,339 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:24:00,353 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10026
+INFO 2024-09-06 11:25:03,123 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:25:03,132 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10026
+INFO 2024-09-06 11:25:07,270 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:25:07,281 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10026
+INFO 2024-09-06 11:25:30,099 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:25:30,107 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10026
+INFO 2024-09-06 11:25:57,869 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:25:57,879 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10026
+INFO 2024-09-06 11:26:14,370 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:26:14,380 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10026
+INFO 2024-09-06 11:27:10,803 middleware User: jeng, Request method: POST, Request path: /wms/api/post_machplan
+INFO 2024-09-06 11:27:10,836 basehttp "POST /wms/api/post_machplan HTTP/1.1" 200 41
+INFO 2024-09-06 11:27:10,992 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 11:27:11,045 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T04:22:07.389Z&end_date=2024-09-07T04:22:07.389Z&planid=1 HTTP/1.1" 200 4143
+INFO 2024-09-06 11:27:11,327 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:27:11,337 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10335
+INFO 2024-09-06 11:31:59,130 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:31:59,141 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10335
+INFO 2024-09-06 11:32:05,103 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:32:05,110 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10335
+INFO 2024-09-06 11:32:11,114 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:32:11,125 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10335
+INFO 2024-09-06 11:32:36,121 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:32:36,131 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10335
+INFO 2024-09-06 11:32:53,338 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:32:53,346 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:32:53,364 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:32:53,372 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:32:53,654 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:32:53,663 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:32:53,685 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:32:53,687 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:32:53,691 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:32:53,702 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:32:53,705 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:32:53,708 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:32:53,718 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:32:53,720 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:32:53,728 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:32:53,730 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:33:13,004 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:33:13,013 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:33:13,035 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:33:13,045 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:33:13,111 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:33:13,128 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:33:13,154 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:33:13,181 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:33:13,183 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:33:13,185 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:33:13,201 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:33:13,206 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:33:13,225 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:33:13,235 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:33:13,240 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:33:13,245 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:33:41,919 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:33:41,925 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:34:04,947 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:34:04,953 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:34:27,556 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:34:27,565 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:34:44,242 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:34:44,248 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:35:06,331 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:35:06,338 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:35:31,871 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:35:31,877 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:36:25,240 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:36:25,246 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:36:27,444 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:36:27,450 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:36:27,469 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:36:27,476 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:36:28,082 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:36:28,192 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:36:28,289 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:36:28,296 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 11:36:28,319 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:36:28,465 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:36:28,472 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:36:28,485 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 11:36:28,510 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 11:36:28,524 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:36:28,543 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 11:36:28,547 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:36:52,152 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:36:52,159 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:37:14,205 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:37:14,215 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 11:37:30,936 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 0
+INFO 2024-09-06 11:37:30,990 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 11:37:31,063 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4143
+INFO 2024-09-06 11:37:31,226 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:37:31,237 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10335
+INFO 2024-09-06 11:37:44,233 basehttp "OPTIONS /wms/api/edit_appointment HTTP/1.1" 200 0
+INFO 2024-09-06 11:37:44,299 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 11:37:44,319 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 11:37:44,457 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 11:37:44,543 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4143
+INFO 2024-09-06 11:37:44,746 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:37:44,755 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10335
+INFO 2024-09-06 11:37:55,470 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 11:37:55,486 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 11:37:55,624 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 11:37:55,662 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4022
+INFO 2024-09-06 11:37:55,881 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:37:55,892 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10328
+INFO 2024-09-06 11:39:56,642 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 11:39:56,663 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 11:39:56,810 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 11:39:56,856 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4143
+INFO 2024-09-06 11:39:57,116 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:39:57,129 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10328
+INFO 2024-09-06 11:40:02,854 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:40:02,862 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:40:02,862 basehttp - Broken pipe from ('127.0.0.1', 62854)
+INFO 2024-09-06 11:40:02,871 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 11:40:02,878 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 11:40:02,878 basehttp - Broken pipe from ('127.0.0.1', 63315)
+INFO 2024-09-06 11:44:56,621 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 11:44:56,649 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 11:44:56,794 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 11:44:56,840 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4143
+INFO 2024-09-06 11:44:57,097 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 11:44:57,104 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10328
+INFO 2024-09-06 13:12:32,998 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:12:33,025 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:12:33,166 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:12:33,209 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4264
+INFO 2024-09-06 13:12:33,356 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:12:33,372 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10328
+INFO 2024-09-06 13:12:34,219 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:12:34,233 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:12:34,348 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:12:34,414 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4143
+INFO 2024-09-06 13:12:34,542 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:12:34,559 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10328
+INFO 2024-09-06 13:12:36,376 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:12:36,394 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:12:36,503 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:12:36,549 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4264
+INFO 2024-09-06 13:12:36,642 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:12:36,651 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10328
+INFO 2024-09-06 13:12:37,580 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:12:37,596 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:12:37,692 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:12:37,761 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4143
+INFO 2024-09-06 13:12:37,865 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:12:37,877 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10328
+INFO 2024-09-06 13:12:40,031 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:12:40,054 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:12:40,185 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:12:40,217 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4264
+INFO 2024-09-06 13:12:40,352 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:12:40,366 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10328
+INFO 2024-09-06 13:12:54,579 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:12:54,599 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:12:54,750 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:12:54,796 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4143
+INFO 2024-09-06 13:12:54,891 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:12:54,902 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10328
+INFO 2024-09-06 13:12:56,291 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:12:56,316 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:12:56,417 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:12:56,454 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4264
+INFO 2024-09-06 13:12:56,616 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:12:56,625 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10328
+INFO 2024-09-06 13:12:58,748 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:12:58,764 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:12:58,871 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:12:58,936 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4264
+INFO 2024-09-06 13:12:59,074 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:12:59,081 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10328
+INFO 2024-09-06 13:13:01,370 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:13:01,418 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:13:01,520 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:13:01,542 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4263
+INFO 2024-09-06 13:13:01,712 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:13:01,736 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10327
+INFO 2024-09-06 13:13:04,524 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:13:04,544 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:13:04,656 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:13:04,695 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4263
+INFO 2024-09-06 13:13:04,815 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:13:04,824 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10327
+INFO 2024-09-06 13:13:12,751 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:13:12,769 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:13:12,891 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:13:12,937 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4143
+INFO 2024-09-06 13:13:13,098 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:13:13,104 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10327
+INFO 2024-09-06 13:13:14,114 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:13:14,131 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:13:14,240 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:13:14,279 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4143
+INFO 2024-09-06 13:13:14,400 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:13:14,412 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10327
+INFO 2024-09-06 13:13:16,160 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:13:16,179 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:13:16,288 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:13:16,379 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4143
+INFO 2024-09-06 13:13:16,486 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:13:16,495 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10328
+INFO 2024-09-06 13:13:18,304 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:13:18,316 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:13:18,438 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:13:18,467 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4264
+INFO 2024-09-06 13:13:18,582 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:13:18,594 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10328
+INFO 2024-09-06 13:14:29,297 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:14:29,323 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:14:29,491 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:14:29,531 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4143
+INFO 2024-09-06 13:14:29,648 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:14:29,666 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10328
+INFO 2024-09-06 13:14:30,950 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:14:30,967 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:14:31,092 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:14:31,140 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4264
+INFO 2024-09-06 13:14:31,266 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:14:31,278 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10328
+INFO 2024-09-06 13:14:33,273 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:14:33,290 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:14:33,406 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:14:33,469 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4263
+INFO 2024-09-06 13:14:33,617 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:14:33,622 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10327
+INFO 2024-09-06 13:14:35,910 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:14:35,929 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:14:36,068 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:14:36,126 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4264
+INFO 2024-09-06 13:14:36,238 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:14:36,256 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10328
+INFO 2024-09-06 13:14:38,046 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:14:38,063 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:14:38,176 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:14:38,252 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4264
+INFO 2024-09-06 13:14:38,353 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:14:38,364 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10328
+INFO 2024-09-06 13:14:45,712 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:14:45,725 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:14:45,822 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:14:45,874 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4263
+INFO 2024-09-06 13:14:45,978 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:14:45,990 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10327
+INFO 2024-09-06 13:14:57,575 middleware User: jeng, Request method: POST, Request path: /wms/api/post_machplan
+INFO 2024-09-06 13:14:57,607 basehttp "POST /wms/api/post_machplan HTTP/1.1" 200 39
+INFO 2024-09-06 13:14:57,746 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:14:57,798 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T04:36:27.684Z&end_date=2024-09-07T04:36:27.684Z&planid=1 HTTP/1.1" 200 4264
+INFO 2024-09-06 13:14:57,906 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:14:57,917 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10610
+INFO 2024-09-06 13:15:26,780 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:15:26,789 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10610
+INFO 2024-09-06 13:21:31,531 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:21:31,539 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10610
+INFO 2024-09-06 13:21:54,829 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:21:54,840 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10610
+INFO 2024-09-06 13:23:01,544 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:23:01,552 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:23:01,565 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:23:01,571 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:23:01,765 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:23:01,777 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:23:01,794 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:23:01,797 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:23:01,807 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:23:01,811 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:23:01,814 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:23:01,817 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:23:01,824 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:23:01,827 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:23:01,832 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:23:01,835 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:23:04,248 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:23:04,257 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:23:04,278 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:23:04,288 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:23:04,439 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:23:04,451 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:23:04,464 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:23:04,467 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:23:04,473 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:23:04,475 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:23:04,479 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:23:04,481 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:23:04,488 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:23:04,492 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:23:04,498 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:23:04,501 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:23:06,638 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T06:23:04.387Z&end_date=2024-09-07T06:23:04.387Z&planid=1 HTTP/1.1" 200 0
+INFO 2024-09-06 13:23:06,690 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:23:06,723 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T06:23:04.387Z&end_date=2024-09-07T06:23:04.387Z&planid=1 HTTP/1.1" 200 4264
+INFO 2024-09-06 13:23:06,814 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:23:06,825 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10610
+INFO 2024-09-06 13:23:42,587 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:23:42,593 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10610
+INFO 2024-09-06 13:23:47,983 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:23:47,989 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:23:48,002 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:23:48,009 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:23:48,193 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:23:48,205 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:23:48,216 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:23:48,220 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:23:48,221 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:23:48,222 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:23:48,233 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:23:48,236 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:23:48,243 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:23:48,246 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:23:48,247 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:23:48,254 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:23:49,811 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T06:23:48.125Z&end_date=2024-09-07T06:23:48.125Z&planid=1 HTTP/1.1" 200 0
+INFO 2024-09-06 13:23:49,859 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:23:49,903 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T06:23:48.125Z&end_date=2024-09-07T06:23:48.125Z&planid=1 HTTP/1.1" 200 4264
+INFO 2024-09-06 13:23:49,984 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:23:49,996 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10610
+INFO 2024-09-06 13:24:43,197 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:24:43,203 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:24:43,218 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:24:43,226 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:24:43,438 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:24:43,453 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:24:43,478 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:24:43,479 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:24:43,482 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:24:43,489 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:24:43,494 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:24:43,502 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:24:43,513 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:24:43,515 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:24:43,518 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:24:43,521 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:25:21,557 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:25:21,564 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:25:21,577 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:25:21,583 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:27:11,432 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:27:11,439 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:27:11,453 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:27:11,464 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:27:17,624 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:27:17,631 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:27:17,650 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:27:17,655 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:27:17,855 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:27:17,864 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:27:17,881 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:27:17,882 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:27:17,883 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:27:17,888 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:27:17,891 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:27:17,893 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:27:17,901 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:27:17,906 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:27:17,910 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:27:17,914 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:27:19,558 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T06:27:17.774Z&end_date=2024-09-07T06:27:17.774Z&planid=1 HTTP/1.1" 200 0
+INFO 2024-09-06 13:27:19,608 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:27:19,651 basehttp "GET /wms/api/get_Sche?zca=ZCA67100122002&start_date=2024-09-01T06:27:17.774Z&end_date=2024-09-07T06:27:17.774Z&planid=1 HTTP/1.1" 200 4264
+INFO 2024-09-06 13:27:19,751 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:27:19,765 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10610
+INFO 2024-09-06 13:28:36,576 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:28:36,595 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10610
+INFO 2024-09-06 13:28:51,920 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:28:51,930 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10610
+INFO 2024-09-06 13:28:59,107 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:28:59,115 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10610
+INFO 2024-09-06 13:29:17,502 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:29:17,507 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:29:17,517 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:29:17,522 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:29:17,650 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:29:17,659 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:29:17,673 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:29:17,677 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:29:17,685 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:29:17,686 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:29:17,692 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:29:17,695 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:29:17,704 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:29:17,708 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:29:17,713 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:29:17,719 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:29:28,353 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:29:28,358 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:29:28,370 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:29:28,380 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:29:28,525 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:29:28,532 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:29:28,548 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:29:28,551 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:29:28,561 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:29:28,563 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:29:28,567 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:29:28,571 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:29:28,579 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:29:28,582 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:29:28,589 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:29:28,592 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:29:36,302 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:29:36,315 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:29:36,362 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:29:36,412 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:29:36,618 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:29:36,622 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:29:36,628 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:29:36,631 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:29:36,639 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:29:36,643 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:29:36,645 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:29:36,650 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:29:36,654 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:29:36,657 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:29:36,662 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:29:36,665 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:31:12,989 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:31:12,994 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:31:42,622 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:31:42,627 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:31:44,505 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:31:44,511 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:31:54,604 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:31:54,613 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:32:43,573 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:32:43,581 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:32:47,221 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:32:47,227 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:33:24,618 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:33:24,625 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:33:28,558 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:33:28,565 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:33:30,560 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:33:30,564 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:33:34,011 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:33:34,015 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:34:17,771 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:34:17,777 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:35:22,170 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:35:22,175 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:35:28,856 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:35:28,858 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:35:28,867 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:35:28,872 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:35:40,914 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:35:40,920 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:37:00,509 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:37:00,523 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:37:00,542 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 13:37:00,554 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 13:37:00,662 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:37:00,676 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:37:00,750 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:37:00,766 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:37:00,777 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:37:00,781 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:37:00,784 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:37:00,790 basehttp "GET /wms/api/get_appointments HTTP/1.1" 200 34
+INFO 2024-09-06 13:37:00,799 middleware User: jeng, Request method: GET, Request path: /wms/api/demand
+INFO 2024-09-06 13:37:00,808 basehttp "GET /wms/api/demand HTTP/1.1" 200 19723
+INFO 2024-09-06 13:37:00,817 middleware User: jeng, Request method: GET, Request path: /wms/api/get_options
+INFO 2024-09-06 13:37:00,826 basehttp "GET /wms/api/get_options HTTP/1.1" 200 105308
+INFO 2024-09-06 13:37:02,246 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T06:37:00.610Z&end_date=2024-09-07T06:37:00.610Z&planid=1 HTTP/1.1" 200 0
+INFO 2024-09-06 13:37:02,290 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:37:02,337 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T06:37:00.610Z&end_date=2024-09-07T06:37:00.610Z&planid=1 HTTP/1.1" 200 4264
+INFO 2024-09-06 13:37:02,457 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:37:02,478 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10610
+INFO 2024-09-06 13:42:26,635 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:42:26,642 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10610
+INFO 2024-09-06 13:42:33,612 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:42:33,622 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10610
+INFO 2024-09-06 13:42:37,636 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:42:37,644 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10610
+INFO 2024-09-06 13:42:52,917 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:42:52,924 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10610
+INFO 2024-09-06 13:43:02,608 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:43:02,622 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:43:02,787 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:43:02,836 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T06:37:00.610Z&end_date=2024-09-07T06:37:00.610Z&planid=1 HTTP/1.1" 200 4263
+INFO 2024-09-06 13:43:02,996 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:43:03,010 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10610
+INFO 2024-09-06 13:43:05,064 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:43:05,113 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:43:05,224 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:43:05,264 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T06:37:00.610Z&end_date=2024-09-07T06:37:00.610Z&planid=1 HTTP/1.1" 200 4263
+INFO 2024-09-06 13:43:05,430 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:43:05,439 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10611
+INFO 2024-09-06 13:43:06,602 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:43:06,619 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:43:06,742 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:43:06,783 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T06:37:00.610Z&end_date=2024-09-07T06:37:00.610Z&planid=1 HTTP/1.1" 200 4263
+INFO 2024-09-06 13:43:06,976 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:43:06,986 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10611
+INFO 2024-09-06 13:43:08,335 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:43:08,353 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:43:08,485 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:43:08,535 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T06:37:00.610Z&end_date=2024-09-07T06:37:00.610Z&planid=1 HTTP/1.1" 200 4264
+INFO 2024-09-06 13:43:08,681 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:43:08,692 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10612
+INFO 2024-09-06 13:49:59,407 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:49:59,425 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:49:59,591 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:49:59,640 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T06:37:00.610Z&end_date=2024-09-07T06:37:00.610Z&planid=1 HTTP/1.1" 200 4264
+INFO 2024-09-06 13:49:59,780 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:49:59,788 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10612
+INFO 2024-09-06 13:50:02,556 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+ERROR 2024-09-06 13:50:02,563 log Internal Server Error: /wms/api/edit_appointment
+ERROR 2024-09-06 13:50:02,563 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 500 66
+INFO 2024-09-06 13:50:05,058 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+ERROR 2024-09-06 13:50:05,064 log Internal Server Error: /wms/api/edit_appointment
+ERROR 2024-09-06 13:50:05,065 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 500 66
+INFO 2024-09-06 13:50:06,208 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:50:06,226 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:50:06,343 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:50:06,401 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T06:37:00.610Z&end_date=2024-09-07T06:37:00.610Z&planid=1 HTTP/1.1" 200 4264
+INFO 2024-09-06 13:50:06,571 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:50:06,582 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10612
+INFO 2024-09-06 13:51:24,358 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:51:24,377 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:51:24,520 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:51:24,551 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T06:37:00.610Z&end_date=2024-09-07T06:37:00.610Z&planid=1 HTTP/1.1" 200 4265
+INFO 2024-09-06 13:51:24,753 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:51:24,767 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10616
+INFO 2024-09-06 13:51:32,806 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+ERROR 2024-09-06 13:51:32,809 log Internal Server Error: /wms/api/edit_appointment
+ERROR 2024-09-06 13:51:32,810 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 500 66
+INFO 2024-09-06 13:51:34,939 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+ERROR 2024-09-06 13:51:34,944 log Internal Server Error: /wms/api/edit_appointment
+ERROR 2024-09-06 13:51:34,944 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 500 66
+INFO 2024-09-06 13:51:37,868 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+ERROR 2024-09-06 13:51:37,874 log Internal Server Error: /wms/api/edit_appointment
+ERROR 2024-09-06 13:51:37,874 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 500 66
+INFO 2024-09-06 13:51:38,916 middleware User: jeng, Request method: POST, Request path: /wms/api/edit_appointment
+INFO 2024-09-06 13:51:38,932 basehttp "POST /wms/api/edit_appointment HTTP/1.1" 200 16
+INFO 2024-09-06 13:51:39,124 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:51:39,154 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-09-01T06:37:00.610Z&end_date=2024-09-07T06:37:00.610Z&planid=1 HTTP/1.1" 200 4265
+INFO 2024-09-06 13:51:39,293 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:51:39,306 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10616
+INFO 2024-09-06 13:57:20,142 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-08-31T17:00:00.000Z&end_date=2024-09-29T17:00:00.000Z&planid=1 HTTP/1.1" 200 0
+INFO 2024-09-06 13:57:20,219 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:57:20,274 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-08-31T17:00:00.000Z&end_date=2024-09-29T17:00:00.000Z&planid=1 HTTP/1.1" 200 4265
+INFO 2024-09-06 13:57:20,403 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:57:20,419 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10616
+INFO 2024-09-06 13:57:32,986 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-07-31T17:00:00.000Z&end_date=2024-09-29T17:00:00.000Z&planid=1 HTTP/1.1" 200 0
+INFO 2024-09-06 13:57:33,043 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:57:33,071 basehttp "GET /wms/api/get_Sche?zca=ZCA67100141002&start_date=2024-07-31T17:00:00.000Z&end_date=2024-09-29T17:00:00.000Z&planid=1 HTTP/1.1" 200 4873
+INFO 2024-09-06 13:57:33,203 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:57:33,213 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=CM6&machines[]=CM7&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=MS1&machines[]=CT1 HTTP/1.1" 200 10616
+INFO 2024-09-06 13:57:52,943 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCA67110600002&start_date=2024-07-31T17:00:00.000Z&end_date=2024-09-29T17:00:00.000Z&planid=6 HTTP/1.1" 200 0
+INFO 2024-09-06 13:57:53,012 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:57:53,054 basehttp "GET /wms/api/get_Sche?zca=ZCA67110600002&start_date=2024-07-31T17:00:00.000Z&end_date=2024-09-29T17:00:00.000Z&planid=6 HTTP/1.1" 200 2254
+INFO 2024-09-06 13:57:53,119 basehttp "OPTIONS /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=PK3&machines[]=PK5&machines[]=PK6&machines[]=CM7&machines[]=MS1 HTTP/1.1" 200 0
+INFO 2024-09-06 13:57:53,147 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:57:53,179 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=PK3&machines[]=PK5&machines[]=PK6&machines[]=CM7&machines[]=MS1 HTTP/1.1" 200 7786
+INFO 2024-09-06 13:58:19,752 middleware User: jeng, Request method: POST, Request path: /wms/api/post_machplan
+INFO 2024-09-06 13:58:19,770 basehttp "POST /wms/api/post_machplan HTTP/1.1" 200 40
+INFO 2024-09-06 13:58:19,935 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:58:19,974 basehttp "GET /wms/api/get_Sche?zca=ZCA67110600002&start_date=2024-07-31T17:00:00.000Z&end_date=2024-09-29T17:00:00.000Z&planid=6 HTTP/1.1" 200 2496
+INFO 2024-09-06 13:58:20,153 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:58:20,160 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=PK3&machines[]=PK5&machines[]=PK6&machines[]=CM7&machines[]=MS1 HTTP/1.1" 200 8093
+INFO 2024-09-06 13:58:52,419 middleware User: jeng, Request method: POST, Request path: /wms/api/post_machplan
+INFO 2024-09-06 13:58:52,439 basehttp "POST /wms/api/post_machplan HTTP/1.1" 200 41
+INFO 2024-09-06 13:58:52,574 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:58:52,654 basehttp "GET /wms/api/get_Sche?zca=ZCA67110600002&start_date=2024-07-31T17:00:00.000Z&end_date=2024-09-29T17:00:00.000Z&planid=6 HTTP/1.1" 200 2865
+INFO 2024-09-06 13:58:52,789 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:58:52,795 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=PK3&machines[]=PK5&machines[]=PK6&machines[]=CM7&machines[]=MS1 HTTP/1.1" 200 8400
+INFO 2024-09-06 13:59:31,690 middleware User: jeng, Request method: POST, Request path: /wms/api/post_machplan
+INFO 2024-09-06 13:59:31,714 basehttp "POST /wms/api/post_machplan HTTP/1.1" 200 40
+INFO 2024-09-06 13:59:31,859 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:59:31,953 basehttp "GET /wms/api/get_Sche?zca=ZCA67110600002&start_date=2024-07-31T17:00:00.000Z&end_date=2024-09-29T17:00:00.000Z&planid=6 HTTP/1.1" 200 2865
+INFO 2024-09-06 13:59:32,123 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:59:32,133 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=PK3&machines[]=PK5&machines[]=PK6&machines[]=CM7&machines[]=MS1 HTTP/1.1" 200 8707
+INFO 2024-09-06 13:59:42,776 middleware User: jeng, Request method: POST, Request path: /wms/api/post_machplan
+INFO 2024-09-06 13:59:42,794 basehttp "POST /wms/api/post_machplan HTTP/1.1" 200 40
+INFO 2024-09-06 13:59:42,931 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:59:43,006 basehttp "GET /wms/api/get_Sche?zca=ZCA67110600002&start_date=2024-07-31T17:00:00.000Z&end_date=2024-09-29T17:00:00.000Z&planid=6 HTTP/1.1" 200 2866
+INFO 2024-09-06 13:59:43,153 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:59:43,161 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=PK3&machines[]=PK5&machines[]=PK6&machines[]=CM7&machines[]=MS1 HTTP/1.1" 200 9014
+INFO 2024-09-06 13:59:53,892 middleware User: jeng, Request method: POST, Request path: /wms/api/post_machplan
+INFO 2024-09-06 13:59:53,920 basehttp "POST /wms/api/post_machplan HTTP/1.1" 200 40
+INFO 2024-09-06 13:59:54,078 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:59:54,163 basehttp "GET /wms/api/get_Sche?zca=ZCA67110600002&start_date=2024-07-31T17:00:00.000Z&end_date=2024-09-29T17:00:00.000Z&planid=6 HTTP/1.1" 200 2866
+INFO 2024-09-06 13:59:54,285 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:59:54,296 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=PK3&machines[]=PK5&machines[]=PK6&machines[]=CM7&machines[]=MS1 HTTP/1.1" 200 9320
+INFO 2024-09-06 13:59:56,770 middleware User: jeng, Request method: POST, Request path: /wms/api/post_machplan
+INFO 2024-09-06 13:59:56,790 basehttp "POST /wms/api/post_machplan HTTP/1.1" 200 40
+INFO 2024-09-06 13:59:56,938 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 13:59:56,973 basehttp "GET /wms/api/get_Sche?zca=ZCA67110600002&start_date=2024-07-31T17:00:00.000Z&end_date=2024-09-29T17:00:00.000Z&planid=6 HTTP/1.1" 200 2866
+INFO 2024-09-06 13:59:57,176 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 13:59:57,186 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=PK3&machines[]=PK5&machines[]=PK6&machines[]=CM7&machines[]=MS1 HTTP/1.1" 200 9626
+INFO 2024-09-06 13:59:59,941 middleware User: jeng, Request method: POST, Request path: /wms/api/post_machplan
+INFO 2024-09-06 13:59:59,954 basehttp "POST /wms/api/post_machplan HTTP/1.1" 200 40
+INFO 2024-09-06 14:00:00,104 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 14:00:00,146 basehttp "GET /wms/api/get_Sche?zca=ZCA67110600002&start_date=2024-07-31T17:00:00.000Z&end_date=2024-09-29T17:00:00.000Z&planid=6 HTTP/1.1" 200 2866
+INFO 2024-09-06 14:00:00,293 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 14:00:00,310 basehttp "GET /wms/api/get_appointments?machines[]=HS6&machines[]=HS7&machines[]=HS8&machines[]=PK3&machines[]=PK5&machines[]=PK6&machines[]=CM7&machines[]=MS1 HTTP/1.1" 200 9932
+INFO 2024-09-06 15:03:24,201 basehttp "OPTIONS /wms/api/get_Sche?zca=ZCAWD650100076&start_date=2024-07-31T17:00:00.000Z&end_date=2024-09-29T17:00:00.000Z&planid=262 HTTP/1.1" 200 0
+INFO 2024-09-06 15:03:24,271 middleware User: jeng, Request method: GET, Request path: /wms/api/get_Sche
+INFO 2024-09-06 15:03:24,324 basehttp "GET /wms/api/get_Sche?zca=ZCAWD650100076&start_date=2024-07-31T17:00:00.000Z&end_date=2024-09-29T17:00:00.000Z&planid=262 HTTP/1.1" 200 2042
+INFO 2024-09-06 15:03:24,419 basehttp "OPTIONS /wms/api/get_appointments?machines[]=HS8&machines[]=PK2&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=OS1&machines[]=PL1&machines[]=SEG1 HTTP/1.1" 200 0
+INFO 2024-09-06 15:03:24,459 middleware User: jeng, Request method: GET, Request path: /wms/api/get_appointments
+INFO 2024-09-06 15:03:24,473 basehttp "GET /wms/api/get_appointments?machines[]=HS8&machines[]=PK2&machines[]=PK3&machines[]=PK4&machines[]=PK5&machines[]=PK6&machines[]=OS1&machines[]=PL1&machines[]=SEG1 HTTP/1.1" 200 3811
+INFO 2024-09-06 16:06:36,381 basehttp "OPTIONS /wms/api/getalluser HTTP/1.1" 200 0
+INFO 2024-09-06 16:06:36,384 basehttp "OPTIONS /wms/api/check_session HTTP/1.1" 200 0
+INFO 2024-09-06 16:06:36,388 basehttp "OPTIONS /wms/api/getalluser HTTP/1.1" 200 0
+INFO 2024-09-06 16:06:36,447 middleware User: jeng, Request method: GET, Request path: /wms/api/getalluser
+INFO 2024-09-06 16:06:36,448 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 16:06:36,454 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 16:06:36,456 basehttp "GET /wms/api/getalluser HTTP/1.1" 200 6297
+INFO 2024-09-06 16:06:36,467 middleware User: jeng, Request method: GET, Request path: /wms/api/getalluser
+INFO 2024-09-06 16:06:36,472 basehttp "GET /wms/api/getalluser HTTP/1.1" 200 6297
+INFO 2024-09-06 16:18:30,415 basehttp "OPTIONS /wms/api/get_material HTTP/1.1" 200 0
+INFO 2024-09-06 16:18:30,423 basehttp "OPTIONS /wms/api/get_material HTTP/1.1" 200 0
+INFO 2024-09-06 16:18:30,502 middleware User: jeng, Request method: GET, Request path: /wms/api/check_session
+INFO 2024-09-06 16:18:30,503 middleware User: jeng, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-09-06 16:18:30,515 basehttp "GET /wms/api/check_session HTTP/1.1" 200 127
+INFO 2024-09-06 16:18:30,534 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813753
+INFO 2024-09-06 16:18:30,544 middleware User: jeng, Request method: GET, Request path: /wms/api/get_material
+INFO 2024-09-06 16:18:30,569 basehttp "GET /wms/api/get_material HTTP/1.1" 200 813753
